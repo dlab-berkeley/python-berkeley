@@ -144,12 +144,13 @@ body{
     width:100%;
 }
 #header h1{
-
     color:#ffffff;
+    padding-top: 20px;
 }
 
 #main{
-  width: 80%;
+    clear:both;
+    width: 80%;
     height: 100%;
     margin: auto;
     float: left;
