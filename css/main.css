@@ -134,6 +134,15 @@ body{
     -webkit-animation: spin 5s linear infinite;
     line-height: 0px;
 }
+
+#main{
+    width:80%;
+    height:auto;
+}
+
+#main ul{
+    display:inline;
+}
 @-webkit-keyframes spin {
     0% {
         -webkit-transform: rotate(0deg);
