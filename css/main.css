@@ -135,8 +135,9 @@ body{
     line-height: 0px;
 }
 #wrapper{
-    height:900px;
-    overflow:auto;
+    /*height:900px; */
+    height:auto;
+    /*overflow:auto;*/
 }
 #header{
     background-color:black;
@@ -152,7 +153,7 @@ body{
     clear:both;
     width: 80%;
     margin: auto;
-    height:auto;
+    height:900px;
     float: left;
     margin-left: 20px;
     overflow:auto;
