@@ -138,6 +138,12 @@ body{
     height:900px;
     overflow:auto;
 }
+#header{
+    background-color:black;
+}
+#header h1{
+    color:#ffffff;
+}
 
 #main{
   width: 80%;
