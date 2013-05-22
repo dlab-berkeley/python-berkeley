@@ -152,7 +152,7 @@ body{
     clear:both;
     width: 80%;
     margin: auto;
-    height:600px;
+    height:auto;
     float: left;
     margin-left: 20px;
     overflow:auto;
