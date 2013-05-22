@@ -111,7 +111,6 @@ body{
 }
 
 body{
-    background-color: #999999;
     font-size:12px;
     font-family:Verdana, Arial, Helvetica, sans-serif;
     height:100%;
@@ -145,7 +144,6 @@ border: thin solid #000000;
     float: left;
     margin-left: 20px;
     overflow:scroll;
-    background:pink;
 }
 
 #main ul{
