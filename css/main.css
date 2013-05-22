@@ -118,13 +118,13 @@ body{
 
 
 #wrapper{
-width: 80%;
+width: 90%;
 height:100%;
 background-color:#FFFFFF;
 margin-left: auto;
 margin-right: auto;
 padding: 0px;
-border: thin solid #000000;
+
 }
 
 
@@ -139,7 +139,7 @@ border: thin solid #000000;
 }
 
 #main{
-    width: 80%;
+    width: 90%;
     margin: auto;
     float: left;
     margin-left: 20px;
