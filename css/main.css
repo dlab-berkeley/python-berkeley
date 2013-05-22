@@ -140,22 +140,27 @@ body{
 }
 
 #main{
-    width:80%;
-    height:100%;
-    margin:auto;
-    float:left;
+  width: 80%;
+    height: 100%;
+    margin: auto;
+    float: left;
+    margin-left: 20px;
 
 }
 
 #main ul{
-    display:inline;
-    float:left;
+    clear:both;
 }
 
 #main ul li {
     display:inline;
     float:left;
+    clear:both;
 } 
+#main h4{
+    float: left;
+    clear: both;
+}
 
 @-webkit-keyframes spin {
     0% {
