@@ -136,7 +136,8 @@ body{
 }
 #wrapper{
     width:1200px;
-    height:1280px;
+    height:900px;
+    overflow:auto;
 }
 
 #main{
