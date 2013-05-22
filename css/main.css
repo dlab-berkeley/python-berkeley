@@ -151,10 +151,11 @@ body{
 #main{
     clear:both;
     width: 80%;
-    height: 100%;
+    height: auto;
     margin: auto;
     float: left;
     margin-left: 20px;
+    overflow:auto;
 
 }
 
