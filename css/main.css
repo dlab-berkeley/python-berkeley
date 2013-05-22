@@ -140,10 +140,11 @@ body{
 }
 #header{
     background-color:black;
-}
-#header h1{
     height:100px;
     width:100%;
+}
+#header h1{
+
     color:#ffffff;
 }
 
