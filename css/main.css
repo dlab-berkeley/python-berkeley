@@ -142,6 +142,8 @@ body{
     background-color:black;
 }
 #header h1{
+    height:100px;
+    width:100%;
     color:#ffffff;
 }
 
