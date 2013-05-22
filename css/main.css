@@ -134,10 +134,14 @@ body{
     -webkit-animation: spin 5s linear infinite;
     line-height: 0px;
 }
+#wrapper{
+    width:1200px;
+    height:1280px;
+}
 
 #main{
     width:80%;
-    height:auto;
+    height:100%;
     margin:auto;
     float:left;
 
