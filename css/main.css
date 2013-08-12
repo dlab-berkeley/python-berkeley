@@ -96,11 +96,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-body{
-  text-align:center;
-}
-
-
 @-webkit-keyframes spin {
     0% {
         -webkit-transform: rotate(0deg);
@@ -132,50 +127,41 @@ padding: 0px;
     background-color:black;
     height:110px;
     width:100%;
+    margin-top: -16px;
 }
 #header h1{
     color:#ffffff;
     padding-top: 20px;
+    text-align: center;
 }
 
 #main{
-    width: 100%;
+    width: 80%;
     margin: auto;
-    height:100%;
-    float: left;
-    margin-left: 20px;
+    /* height:100%; */
+    /* float: center; */
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
     overflow:scroll;
-}
-
-#main ul{
-    clear:both;
-}
-
-#main ul li {
-    display:inline;
-    float:left;
-    clear:both;
-} 
-#main h4{
-    float: left;
-    clear: both;
+    margin-bottom: 15%;
 }
 
 #footer{
     width:100%;
-    height:50px;
+    min-height:50px;
     position:fixed;
     bottom:0;
     left:0;
     background:black;
-
 }
 
 #footer p{
     color:#ffffff;
-    padding-top: 20px;
-    float:left;
+    width: 100%;
+    /* padding-top: 10px; */
+    /* float:left; */
     font-size: 12px;
+    text-align: center;
     
 }
 
