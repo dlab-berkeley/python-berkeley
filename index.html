@@ -1,152 +1,82 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Python at UC Berkeley by dlab-berkeley</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  </head>
+  <body>
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
+      <header>
+        <h1>Python at UC Berkeley</h1>
+        <p>Python resources at UC Berkeley, curated in one place</p>
+      </header>
 
-        <!-- Add your site or application content here -->
-    <div id="wrapper">
-        <div id="header">
-        <h1>Learning Python</h1>
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/dlab-berkeley/python-berkeley" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/dlab-berkeley/python-berkeley/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/dlab-berkeley/python-berkeley/tarball/master" class="button">TAR</a></li>
+          </ul>
         </div>
+      </div><!-- end banner -->
 
-        <div id="main">
-            <h4>Zero-installation intros</h4>
-            <!-- <br><br><br> -->
-            <p>These resources include an integrated python interpreter that
-            works through your web browser. To use the other resources, you'll
-            need to get access to a python interpreter (described in the next
-            section).</p>
-            <ul id="no-install-intro">
-                <li><a href="http://www.codecademy.com/tracks/python">Codecademy
-                Python Track</a></li>
-                <li><a href="http://www.learnpython.org/">learnpython.org</a></li>
-            </ul>
-             <h4>Getting Python</h4>
-             <p>Simple consoles: <a
-                 href="http://doc.pyschools.com/console">PySchools</a> and <a
-                 href="http://labs.codecademy.com">Codecademy Labs</a></p>
-             <p><em>The easy way, hosted IPython in your browser:</em> <a
-                 href="http://wakari.io">Wakari.io</a></p>
-             <p>If you are using OS X or Linux (or similar), you likely already
-                have Python installed. You can just run `python` from the command
-                line. If you don't know how to run things from the command line,
-                it's probably easiest to follow the installation instructions below.</p>
-                <p>If you install Python, you should follow
-                <a href="http://ipython.org/install.html">the instructions on
-                    the IPython page</a>. (IPython is an enhanced shell for Python.)</p>
-            <h4>Other online tutorials</h4>
-                <ul id ="online-tutorial">
-                    <li><a href="http://docs.python.org/2/tutorial/">Tutorial
-                        from the official Python website</a></li>
-                    <li><a
-                        href="http://wiki.python.org/moin/BeginnersGuide">Other
-                    resources are available on the Python wiki</a></li>
-                </ul>
-            <h4>Video tutorials</h4>
-                <ul id = "video-tutorial">
-                    <!-- <li><a href="http://www.codecademy.com/courses/getting&#45;started&#45;with&#45;python">Code Academy</a></li> -->
-                    <li><a href="https://www.coursera.org/course/interactivepython">Coursera</a></li>
-                    <li><a href="https://www.khanacademy.org/science/computer-science">Khan Academy</a></li>
-                </ul>
-                <h4>Cheat Sheets</h4>
-                <ul id = "cheat-sheets">
-                    <li><a href="http://www.cogsci.rpi.edu/~destem/gamedev/python.pdf">
-                    A simple reference</a>
-                    <li><a href="http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf">
-                    A dense, compact reference</a>
-                    <li><a href="http://new.math.uiuc.edu/math198/repo/math198/week3/SturtPythonReference.pdf">
-                    A long format reference</a>
-                </ul>
-             <h4>E-books</h4>
-                <ul id = "ebooks-tutorial">
-                    <li><a href="http://www.greenteapress.com/thinkpython/thinkpython.html">Think Python: How to Think Like a Computer Scientist</a></li>
-                    <li><a href="http://readwrite.com/2011/03/25/python-is-an-increasingly-popu">6 Free ebooks for python</a></li>
-                    <!-- The following is a dup of the above -->
-                    <!-- <li><a href="http://openbookproject.net/thinkcs/python/english2e/">How to Think Like a Computer Scientist: Learning with Python, 2nd Edition</a></li> -->
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <h3>
+<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
 
-                    <!-- A bit dated -->
-                    <!-- <li><a href="http://www.diveintopython.org/">Dive into Python</a></li> -->
-                    <!-- <li><a href="http://oreilly.com/catalog/9780596513986">Learning Python</a></li> -->
-                    <li><a
-                    href="http://proquest.safaribooksonline.com/book/programming/python/9781449323592">Python
-                        for Data Analysis</a> (a great intro to real scientific computing
-                        with Python)</li>
-                    <li>At Berkeley, we have access to the following e-book
-                    catalogs (which includes the Data Analysis book above):
-                    </li>
-                        <ul>
-                            <li><a
-                                href="http://proquest.safaribooksonline.com/">O'Reilly
-                                Safari Bookshelf</a></li>
-                            <li><a
-                                href="http://link.springer.com/search?facet-content-type=%22Book%22">Springer
-                                Link</a></li>
-                        </ul>
-                    <!-- <li><a href="http://www.amazon.com/Python&#45;Programming&#45;Absolute&#45;Beginner&#45;Michael/dp/1592000738">A Byte of Python </a></li> -->
-                    <!-- <li><a href="http://openbookproject.net/thinkcs/python/english2e/">Python Programming for the Absolute Beginner</a></li> -->
-                    <!-- <li><a href="http://www.manning.com/sande/">Hello World! Computer Programming for Kids and Other Beginners</a></li> -->
-                    <!-- <li><a href="http://wiki.python.org/moin/IntroductoryBooks">Wiki Introductory books</a></li> -->
-                </ul>
-                <h4>Data / scientific computing</h4>
-                <p><a
-                    href="http://proquest.safaribooksonline.com/book/programming/python/9781449323592">Python
-                        for Data Analysis</a> is a great place to get started.
-                    Or, you can learn about these tools from their websites:</p>
-                <ul>
-                    <li><a href="http://pandas.pydata.org/">Pandas for reading /
-                        manipulating data</a></li>
-                    <li><a href="http://matplotlib.org/index.html">Matplotlib</a>
-                        (the most common graphing library, includes a great
-                        <a href="http://matplotlib.org/gallery.html">gallery</a>)</li>
-                </ul>
-                <p>And then look here for inspiration:</p>
-                <ul>
-                    <li><a href="http://nbviewer.ipython.org/">View existing
-                        IPython notebooks</a></li>
-                    <li>
-                    <a href="https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks">
-                        A list of other interesting IPython notebooks</a></li>
-                </ul>
-        </div>
-        <div id="footer">
-            <p>This page is maintained by <a href="">D-Lab</a> on behalf of the
-            Berkeley python community. |  University of California, Berkeley |
-            350 Barrows Hall Berkeley, CA 94720-3030 |
-            <a href="mailto:dlab@berkeley.edu?Subject=Python Resources">dlab@berkeley.edu</a>
-            </p>
-        </div>
+<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
 
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+</code></pre>
+
+<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+
+<h3>
+<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+
+<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+
+<h3>
+<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+
+<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+
+<h3>
+<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+
+<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+
+<h3>
+<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+      </section>
+      <footer>
+        <p>Project maintained by <a href="https://github.com/dlab-berkeley">dlab-berkeley</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
     </div>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src='//www.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
-    </body>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
 </html>
