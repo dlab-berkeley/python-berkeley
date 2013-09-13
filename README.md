@@ -1,10 +1,10 @@
 python-berkeley
 ===============
 
-python resources of berkeley curated at a place
+A repo that exists to host GitHub Pages for:
 
+http://python.berkeley.edu 
 
-## Coming soon
-An initiative by Dlab@Berkeley for collecting and curating all the python resources developed and contributed by the Berkeley community.
+Check the gh-pages branch for the Jekyll code!
 
 _Go Bears_ !
