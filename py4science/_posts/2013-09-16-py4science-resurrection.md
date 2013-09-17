@@ -26,8 +26,6 @@ For example:
 Example Meeting Agenda
 ----------------------
 
-(example of a meeting)
-
  * newbie nuggets: @ 20 minutes on a topic of interest to new coders
  * lightning talks: (1-4) advanced topics
  * working groups (split or not-split into groups to discuss lightning topics in detail)
