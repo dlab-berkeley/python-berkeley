@@ -1,18 +1,18 @@
 ---
-layout: py4sci
-title:  "Resurrecting py4science at UC Berkeley" 
-date:   2013-09-16 
+layout: pypost
+title:  "Resurrecting py4science at UC Berkeley"
+date:   2013-09-16
 ---
 
 We will be having an organizational meeting this Wednesday, September 18th,
 2013 at the [D-lab](http://dlab.berkeley.edu) on the 3rd floor of Barrows Hall.
 
 
-The main purpose of the first meeting is to set up the 
+The main purpose of the first meeting is to set up the
 structure for the rest of the year.
-The goal of py4science is to bring togther people using python for science 
+The goal of py4science is to bring togther people using python for science
 to allow for sharing of tips, tricks, and resources.
-This is not a meant to be a **training series**, instead we hope to discuss 
+This is not a meant to be a **training series**, instead we hope to discuss
 a wide range of ever changing topics:
 
 For example:

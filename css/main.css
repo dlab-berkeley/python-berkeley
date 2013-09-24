@@ -64,6 +64,10 @@ ul.posts span {
   line-height: 1.5em;
 }
 
+.site .header {
+  border-bottom: 4px solid #eee;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
