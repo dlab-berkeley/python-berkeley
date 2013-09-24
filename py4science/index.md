@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Py4Science at UC Berkeley
-
-next_meeting: Wednesday, October 2nd, 2013
 ---
 
 ---
-Next Meeting: **{{ page.next_meeting }}**.<br>
+Next Meeting: **{{ site.py4sci }}**.<br>
 Meetings take place at the [D-Lab](http://dlab.berkeley.edu) from 5-7pm.
 
 These meetings are announced on the [py4science mailing
