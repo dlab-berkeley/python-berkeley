@@ -34,6 +34,7 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
  - [A useful collection of python tutorials](http://freepythontips.wordpress.com/2013/09/01/best-python-resources/)
  - [Introduction to Programming  a set of mini-lecture
    notebooks](http://nbviewer.ipython.org/urls/raw.github.com/ehmatthes/intro_programming/master/notebooks/intro_programming_index.ipynb)
+
 ## Video tutorials
  - [Coursera](https://www.coursera.org/course/interactivepython)
  - [Khan Academy](https://www.khanacademy.org/science/computer-science)
