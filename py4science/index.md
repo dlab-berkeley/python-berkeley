@@ -3,8 +3,9 @@ layout: py4sci
 title: Py4Science at UC Berkeley
 ---
 
-{% for post in site.categories.py4science %}
+[See information specific to the py4data working group](py4data.html)
 
+{% for post in site.categories.py4science %}
 ---
 <h2> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 
