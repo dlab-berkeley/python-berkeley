@@ -1,0 +1,2 @@
+Implement excerpted post listing
+Look into page.path as enabling targeted editing
