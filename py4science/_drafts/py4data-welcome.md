@@ -5,9 +5,9 @@ tags: py4data
 author: Bob Bell
 ---
 
-Some folks have already found out about the new Py4Data Working group, meeting
-Fridays at the D-Lab. And there's apparently some confusion. So, just to be
-clear:
+Some folks have already found out about the new py4data working group, meeting
+Fridays at the D-Lab from noon-2pm. And there's apparently some confusion. So,
+just to be clear:
 
 ## All members of the Py4Science community are welcome!
 
