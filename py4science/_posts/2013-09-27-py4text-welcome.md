@@ -1,5 +1,5 @@
 ---
-layout: py4sci
+layout: pypost
 title: Introducing py4data
 tags: py4text
 author: Cyrus Dioun
