@@ -1,3 +1,9 @@
+---
+layout: pypost
+title: A healthy variety at py4science
+date:   2013-10-01
+author: Dav Clark
+---
 We'll have our first substantive meeting this week on 10/02/2013!
 
 As per usual, we'll meet from 5-7pm, but *unlike previously* we'll meet in the
