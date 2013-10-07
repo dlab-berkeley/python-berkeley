@@ -1,3 +1,35 @@
+# UC Berkeley Python specific notes
+
+Below are the notes included from the Jekyll-Bootstrap project
+
+I used the the-program theme from the jekyll-bootstrap project to set this up.
+Jekyll-Bootstrap which adds an additional layer of indirection. Following are
+some quick navigational hints: 
+
+## Styling
+
+    assets/themes/the-program
+
+Note that this uses LESS (which is used by Bootstrap). If you want to edit the
+LESS, you'll need lessc (install via npm - the 'node package manager') or some
+other tool (my wife likes Crunch). Please don't edit the CSS directly except in
+an emergency.
+
+## Page templates
+
+    _includes/themes/the-progam
+
+## Boilerplate text
+
+You'll also find useful bits here for the colophon.html (copyright etc., always
+at the bottom) and notices.md (sidebar / footer when narrow):
+
+    _includes
+
+## Danger!
+
+Lastly, *please don't edit the bootstrap code*. Override bootstrap styling in "the-program".
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -43,4 +75,4 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+Jekyll-Bootstrap is licensed under [MIT](http://opensource.org/licenses/MIT)
