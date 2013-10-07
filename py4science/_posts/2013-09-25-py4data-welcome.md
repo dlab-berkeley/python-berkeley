@@ -1,5 +1,5 @@
 ---
-layout: pypost
+layout: post
 title: Introducing py4data
 tags: py4data
 author: Bob Bell

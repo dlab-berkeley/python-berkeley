@@ -1,6 +1,6 @@
 ---
-layout: py4sci
-title: Py4Science at UC Berkeley
+layout: page
+title: Py4data at UC Berkeley
 ---
 
 {% for post in site.tags.py4data %}

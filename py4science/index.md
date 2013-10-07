@@ -1,6 +1,6 @@
 ---
-layout: py4sci
-title: Py4Science at UC Berkeley
+layout: page
+title: Py4science at UC Berkeley
 ---
 
 [See information specific to the py4data working group](py4data.html)

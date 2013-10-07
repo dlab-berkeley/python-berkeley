@@ -1,5 +1,5 @@
 ---
-layout: pypost
+layout: post
 title: Pandas and econometrics at py4data
 tags: py4data
 author: Dav Clark

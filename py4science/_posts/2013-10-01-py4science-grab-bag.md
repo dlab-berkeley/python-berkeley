@@ -1,5 +1,5 @@
 ---
-layout: pypost
+layout: post
 title: A healthy variety at py4science
 date:   2013-10-01
 author: Dav Clark

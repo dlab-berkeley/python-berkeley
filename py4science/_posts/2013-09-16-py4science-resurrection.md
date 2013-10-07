@@ -1,5 +1,5 @@
 ---
-layout: pypost
+layout: post
 title:  "Resurrecting py4science at UC Berkeley"
 date:   2013-09-16
 ---
