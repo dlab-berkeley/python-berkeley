@@ -3,8 +3,10 @@ layout: page
 title: Python at UC Berkeley
 tagline: Supporting tagline
 ---
-{% include JB/setup %}
+Join the community on the [py4science](py4science) page. Read below to get
+started on your own.
 
+---
 ## Zero-installation intros
 
 These resources include an integrated python interpreter that
