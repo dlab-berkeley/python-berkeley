@@ -1,5 +1,5 @@
 ---
-layout: py4sci
+layout: post
 title:  "Meeting Notes 2013-10-02" 
 date:   2013-10-02
 author: Jess Hamrick
@@ -13,7 +13,7 @@ This was the second meeting of py4science!
 
 * Experienced: 7
 * Intermediate: 2
-* New: 
+* New: 0
 
 People came from the following departments and organizations:
 
@@ -36,10 +36,10 @@ Presented by Cindee, the topic is about `if __name__ == "__main__"`
 
 [IPython notebook for the newbie nugget]()
 
-Min points out that you can write files in IPython notebook using the
+Min pointed out that you can write files in IPython notebook using the
 `%%file` cell magic!
 
-Jess mentions weirdness with `if __name__ == "__main__"` in emacs and
+Jess mentioned weirdness with `if __name__ == "__main__"` in emacs and
 IPython (python-mode apparently ignores anything in the if statement).
 
 ## Lightning Talks
