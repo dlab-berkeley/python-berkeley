@@ -46,9 +46,11 @@
 	<footer class="the-footer">
 		<div class="unit-foot">
 			<div class="unit-inner unit-foot-inner">
-                {% capture notices %}
-                    {% include notices.md %}
-                {% endcapture %}
+                {% comment %}
+                Putting the capture all on one line avoids indentation leading
+                to a code snippet.
+                {% endcomment %}
+                {% capture notices %}{% include notices.md %}{% endcapture %}
                 {{ notices | markdownify }}
 			</div><!-- unit-foot-inner -->
 		</div><!-- unit-foot -->

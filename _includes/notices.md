@@ -1,5 +1,3 @@
-
-<!-- leave the above line blank so include -> markdownify works -->
 Next py4science meeting: *October 16, 2013, from 5-7pm*.
 
 The [py4data](/py4science/py4data.html) working group is
