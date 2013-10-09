@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meeting Notes 2013-10-02"
+title:  "Meeting Notes from 2013-10-02"
 author: Jess Hamrick
 ---
 
