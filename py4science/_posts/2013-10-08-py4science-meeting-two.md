@@ -59,7 +59,7 @@ typechecking and command line argument parsing, yield from and return from gener
 
 Useful tip: `python -o` will remove assert statements!
 
-We will update this post with a link to the slides! 
+Update: [Thomas' Slides](https://github.com/dlab-berkeley/python-berkeley/tree/master/python3_overview)
 
 
 ## Next Time: Editors
