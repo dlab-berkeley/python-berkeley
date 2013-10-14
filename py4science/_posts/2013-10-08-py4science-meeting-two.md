@@ -29,9 +29,11 @@ Dav talked about the differences between working groups and the py4science meeti
 
 ## Newbie Nugget
 
-Cindee presented this week's Newbie Nugget. The topic is about `if __name__ == "__main__"`
+Cindee presented this week's Newbie Nugget. The topic is about `if __name__ ==
+"__main__":`
 
-[IPython notebook for the Newbie Nugget]()
+[IPython notebook for the Newbie Nugget]({{ site.url
+}}/assets/newbie_nugget_Oct2_2013.html)
 
 Min pointed out that you can write files in IPython notebook using the
 `%%file` cell magic!
