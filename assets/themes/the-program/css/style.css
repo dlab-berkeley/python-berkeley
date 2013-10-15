@@ -656,13 +656,13 @@ pre {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dashed #c26164;
+  border-bottom: 1px solid #c26164;
 }
 .unit-article a:visited {
-  border-bottom: 1px dashed #ad4346;
+  border-bottom: 1px solid #ad4346;
 }
 .unit-article a:hover {
-  border-bottom: 1px dashed #d08688;
+  border-bottom: 1px solid #d08688;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
