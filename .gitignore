@@ -1,2 +1,3 @@
 _site
 .*.sw[op]
+.DS_Store
