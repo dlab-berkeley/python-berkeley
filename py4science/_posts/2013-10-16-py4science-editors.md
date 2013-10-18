@@ -6,9 +6,7 @@ author: Cindee Madison
 
 Upcoming Meeting: **Editors**
 
-
-
-![editors](assets/text_editors.png)
+![editors](/py4science/assets/text_editors.png)
 
 * Overview of different editors (Each person should take about 10 minutes to describe their workflow, what things are most useful, and resources on how to get started using that particular editor).
   * Emacs: Jess
