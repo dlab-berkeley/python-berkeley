@@ -454,7 +454,8 @@ ol,
 dl,
 img {
   margin-top: 0;
-  /* margin-bottom: 1.625em; */
+  /*margin-bottom: @line-height / @em;*/
+
 }
 small,
 .small,
@@ -729,7 +730,8 @@ pre {
 }
 .unit-article img {
   display: block;
-  /* margin-left: auto; */
+  /*margin-left: auto;*/
+
 }
 .unit-article img.left {
   margin-right: 16px;
