@@ -1,7 +1,8 @@
-Next py4science meeting: *October 16, 2013, from 5-7pm*.
+Next [py4science](/py4science/index.html) meeting: *Wednesday, October 30 from 5-7pm*
+[Pandas](http://pandas.pydata.org/).
 
 The [py4data](/py4science/py4data.html) working group is
-currently evaluating future meeting times.
+once again meeting on *Fridays from 12-2pm*.
 
 All meetings take place at the [D-Lab](http://dlab.berkeley.edu/location), located on the third floor of Barrows Hall.
 

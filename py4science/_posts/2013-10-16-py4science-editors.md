@@ -5,13 +5,16 @@ author: Cindee Madison
 ---
 
 Last Meeting **Editors**
+=======
 
+![editors](/py4science/assets/text_editors.png)
 
-
-![editors](assets/text_editors.png)
+Attendance : 9
 
 * Overview of different editors 
 * most useful, and resources on how to get started using that particular editor)
+
+=======
 
   * Emacs: Jess
   * Sublime: Bill
@@ -21,12 +24,14 @@ Last Meeting **Editors**
 ### Jess Hamrick started with [Emacs](http://www.gnu.org/software/emacs/)
 
  * suggested the [homebrew](http://brew.sh/) version os cocoa emacs for MacOSX
- * The **bad**
+
+####The **bad**
    * high initial learning curve 
    * plugins can be buggy 
    * bad package management 
    * customization written in [elisp](http://en.wikipedia.org/wiki/Emacs_Lisp)
- * the **good**
+
+####The **good**
    * [emacswiki.org](http://www.emacswiki.org/emacs/?action=browse;oldid=PythonMode;id=PythonProgrammingInEmacs)
    * supports many languages (Python, Latex, GIT Markdown)
    * Terminal mode
@@ -44,25 +49,28 @@ Last Meeting **Editors**
 Used [virtualbox](https://www.virtualbox.org/wiki/Downloads) + [vagrant](http://www.vagrantup.com/) 
 to run ubuntu and gedit on OSX
 
-    * gedit and related packages need to map to outside folder, but this is easy to set up
-    
-    * preferences
-        * set up default preferences by choosing preferences form File menu
-        * easily choose relevent modules (eg smart spaces)
-        * great tool for beginners and teaching
-        * syntax highlighting
+[github resources for vagrant](https://github.com/dlab-berkeley/python-berkeley/tree/master/editor_setup)
 
+   * gedit and related packages need to map to outside folder, but this is easy to set up    
+   * preferences
+   * set up default preferences by choosing preferences form File menu
+   * easily choose relevent modules (eg smart spaces)
+   * great tool for beginners and teaching
+   * syntax highlighting
+
+****
 
 ### Bill Sprague [Sublime](http://www.sublimetext.com/)
 
-    * the **bad**
-        * not opensource need a license ($70) 
-        * though!! public beta for verson 3 license is not required
-        
-    * sublime works on all platforms
-    * faster and less bloated than Vim
-    * powerful GUI interface
-    * multiple ways to edit text 
+#### The **bad**
+   * not opensource need a license ($70) 
+   * though!! public beta for verson 3 license is not required
+
+#### The **good**  
+   * sublime works on all platforms
+   * faster and less bloated than Vim
+   * powerful GUI interface
+   * multiple ways to edit text 
     * command pallate is amazing  (has fuzzy searching for all commands making it trivial to find command you want)
     * good keyboard
     shortcuts classic mode with vim keyboard shortcuts, good for transition
