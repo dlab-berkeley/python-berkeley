@@ -1,2 +1,4 @@
 Implement excerpted post listing
 Look into page.path as enabling targeted editing
+Have fallback that doesn't depend on cloudflare (I guess some javascript is
+loading from there?)
