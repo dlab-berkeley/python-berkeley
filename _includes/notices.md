@@ -1,8 +1,8 @@
 Next [py4science](/py4science/index.html) meeting: *Wednesday, November 13 from
-5-7pm* Testing with [nose](http://nose.readthedocs.org/en/latest/),
+5-7pm*. Testing with [nose](http://nose.readthedocs.org/en/latest/),
 [pytest](http://pytest.org/latest/), and even the 
 [standard library](http://docs.python.org/2/library/unittest.html) (including
-[doctest](http://docs.python.org/2/library/doctest.html).
+[doctest](http://docs.python.org/2/library/doctest.html)).
 
 The [py4data](/py4science/py4data.html) working group meets *Fridays from 12-2pm*.
 
