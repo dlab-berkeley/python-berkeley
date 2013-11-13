@@ -1,5 +1,4 @@
-Next [py4science](/py4science/index.html) meeting: *Wednesday, October 30 from 5-7pm*
-[Pandas](http://pandas.pydata.org/).
+Next [py4science](/py4science/index.html) meeting: *Today's (11/13) meeting is postponed to next week! 11/20 meeting at 5-7pm
 
 The [py4data](/py4science/py4data.html) working group is
 once again meeting on *Fridays from 12-2pm*.
