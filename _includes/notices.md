@@ -1,4 +1,4 @@
-Next [py4science](/py4science/index.html) meeting: *Wednesday, November 13 from
+Next [py4science](/py4science/index.html) meeting: *Wednesday, November 20 from
 5-7pm*. Testing with [nose](http://nose.readthedocs.org/en/latest/),
 [pytest](http://pytest.org/latest/), and even the 
 [standard library](http://docs.python.org/2/library/unittest.html) (including
