@@ -20,7 +20,8 @@ we'll pick up this week with:
 ## Py4data code porting and testing
 
 Then, Friday, Nov 22 at noon, we'll start working on porting some
-pharmacological MR analysis code to battle-tested python. This project will
-serve as (we hope!) an exemplary model for folks wanting to create reusable code
-for science. Should you come even if you're not a neuroscientist? Definitely!
-It's about the process here - not the specific code.
+[pharmacological MR analysis code](https://www.github.com/iangreenhouse/MRS) to
+battle-tested python. This project will serve as (we hope!) an exemplary model
+for folks wanting to create reusable code for science. Should you come even if
+you're not a neuroscientist? Definitely!  It's about the process here - not the
+specific code.
