@@ -9,10 +9,9 @@ well-tested, ready-to-share scientific code.
 ## Py4science testing extravaganza
 
 We couldn't do py4science last week, due to some absences and illnesses. So,
-we'll pick up this week (Nov 20, 5-7pm) with:
+we'll pick up this week `Nov 20, 5-7pm` with:
 
-- Newbie Nugget [raise](http://docs.python.org/2/tutorial/errors.html#raising-exceptions) and [assert](http://docs.python.org/2/reference/simple_stmts.html#assert)
-- When to test? (@cindeem will review this)
+- When to test (@cindeem will review this)
 - [nose](http://nose.readthedocs.org/en/latest/) (@katyhuff can help)
 - [py.test](http://pytest.org/latest/contents.html)
 - Revisiting [unittest](http://docs.python.org/2/library/unittest.html)
