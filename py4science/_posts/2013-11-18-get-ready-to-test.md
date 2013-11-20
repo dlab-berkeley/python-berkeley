@@ -11,7 +11,7 @@ well-tested, ready-to-share scientific code.
 We couldn't do py4science last week, due to some absences and illnesses. So,
 we'll pick up this week with:
 
-- [nose](http://nose.readthedocs.org/en/latest/)
+- [nose](http://nose.readthedocs.org/en/latest/) (@katyhuff can help)
 - [py.test](http://pytest.org/latest/contents.html)
 - Revisiting [unittest](http://docs.python.org/2/library/unittest.html)
 
