@@ -1,11 +1,8 @@
-Next [py4science](/py4science/index.html) meeting: *Wednesday, November 20 from
-5-7pm*. Testing with [nose](http://nose.readthedocs.org/en/latest/),
-[pytest](http://pytest.org/latest/), and even the 
-[standard library](http://docs.python.org/2/library/unittest.html) (including
-[doctest](http://docs.python.org/2/library/doctest.html)).
+Next [py4science](/py4science/index.html) meeting: *Wednesday, December 4 from
+5-7pm*. Topic to be determined.
 
 The [py4data](/py4science/py4data.html) working group is
-*on hold for 11/15*, but is otherwise meeting *Fridays from 12-2pm*.
+meeting *Fridays from 12-2pm*.
 
 All meetings take place at the [D-Lab](http://dlab.berkeley.edu/location), located on the third floor of Barrows Hall.
 
