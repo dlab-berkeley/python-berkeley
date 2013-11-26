@@ -5,7 +5,15 @@ author: Dav Clark
 ---
 ## In attendance
 
-TODO (Dav has attendance list)
+11 folks signed in, from:
+
+ - Psychology
+ - Nuclear Engineering
+ - Vision Science
+ - Physics
+ - L&S
+ - IPython
+ - and (of course) the D-Lab 
 
 ## Nose
 
