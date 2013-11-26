@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-Next [py4science](/py4science/index.html) meeting: informal py4science meeting on 12/4! 
-=======
+No py4science meeting this week (11/27). Happy Thanksgiving! We'll have an informal get-together on 12/4 from 5-7pm.
 
-No py4science meeting this week (11/27). Happy Thanksgiving! 
+The next full [py4science](py4science/index.html) meeting on *Wednesday, 12/11 from 5-7pm*. We'll have a presentation on coastal ecosystem simulation - also the last py4science meeting for 2013!
 
-Coastal Ecosystem simulations py4science meeting on 12/11 - also the last py4science meeting for 2013!
-
-The [py4data](/py4science/py4data.html) working group is
-*on hold for 11/15*, but is otherwise meeting *Fridays from 12-2pm*.
+The [py4data](/py4science/py4data.html) working group is meeting *Fridays from 12-2pm* (excluding the Friday after Thanksgiving).
 
 All meetings take place at the [D-Lab](http://dlab.berkeley.edu/location), located on the third floor of Barrows Hall.
 
