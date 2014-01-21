@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Py4science at UC Berkeley
+title: Events at Cal
 ---
 
-[Restrict to posts for the py4data working group](py4data.html)
-
-{% for post in site.categories.py4science %}
+{% for post in site.categories.events %}
 ---
 <h2> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 
