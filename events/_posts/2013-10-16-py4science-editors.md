@@ -7,7 +7,7 @@ author: Cindee Madison
 Last Meeting **Editors**
 =======
 
-![editors](/py4science/assets/text_editors.png)
+![editors](/events/assets/text_editors.png)
 
 Attendance : 9
 
