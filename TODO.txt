@@ -1,9 +1,0 @@
-Implement excerpted post listing
-
-Look into page.path as enabling targeted editing
-
-IMPORTANT - offline editing currently sucks until we have a reasonable CDN
-fallback: Have fallback that doesn't depend on cloudflare (I guess some
-javascript is loading from there?)
-
-Change default styling of images to be centered.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events at Cal
+title: Python Events at Cal
 ---
 
 {% for post in site.categories.events %}
