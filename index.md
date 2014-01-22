@@ -4,9 +4,9 @@ title: Orienting to Python at Cal
 ---
 ## For New Learners
 
-Definitely take a look at our [Learning Resources](learning-resources.html), and
+Definitely take a look at our [Learning Resources](learning_resources.html), and
 by our, I mean *our*! You can [submit your own changes via
-GitHub](https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/learning-resources.html)
+GitHub](https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/learning_resources.md)
 to keep our learning resources current.
 
 If you have no idea where to go, drop us a line on the [py4science
