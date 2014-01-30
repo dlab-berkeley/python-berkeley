@@ -20,5 +20,5 @@ a map of topics people at the organisational meeting last week work on:
 ![whiteboard with connected topics](events/assets/2014-01-24-PWP-rally-topics.jpg)
 
 There will be [lightning talks](http://en.wikipedia.org/wiki/Lightning_talk)
-at about 4.30pm. If you've found a cool new project, or you've got a great idea,
-come and tell us about it.
+at about 4.30pm on using Python in teaching and automated grading. If you know
+of projects or ideas about that, let us know at the meeting.
