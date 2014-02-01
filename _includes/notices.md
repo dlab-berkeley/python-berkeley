@@ -1,7 +1,7 @@
 ### Notices
 
 The rebranded *Python Workers' Party* now meets [Fridays at 4-6pm](/events/2014/01/31/a-new-format.html) from 31st January. Come and work on Python code and hear what
-other people are working on. Lightning talks at 4.30pm.
+other people are working on. Lightning talks at 4:30pm.
 
 ### Location
 
