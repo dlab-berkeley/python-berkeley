@@ -21,6 +21,9 @@ we'll be ready to have a quick look at:
  - [Vectorized string
    methods](http://pandas-docs.github.io/pandas-docs-travis/basics.html#vectorized-string-methods)
    that make your data-cleaning life easier.
+ - Dav used stock data using [the pandas io
+   module](http://pandas.pydata.org/pandas-docs/stable/remote_data.html) for one
+   example.
 
 <br>But we always welcome short talks from everyone! Particularly if you are haven't
 spoken before!
