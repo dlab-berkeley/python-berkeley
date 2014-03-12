@@ -18,7 +18,7 @@ you can sign up!
 Spoken Tutorial is a systematic approach to providing materials like Rails
 Casts. (Is there something like this in Python? Submit a pull-request!)
 
-Check out [these statistics](spoken-tutorial.org/statistics)!
+Check out [these statistics](http://spoken-tutorial.org/statistics)!
 
 This program offers vetted, open, downloadable screencasts in hybrid
 English/native language instruction. Materials span open office software to
