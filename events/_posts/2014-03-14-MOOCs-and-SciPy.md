@@ -45,3 +45,18 @@ Lastly, please invite folks who are beginners. The idea is for the Python
 Workers' Party to support the development of our community! People can treat it
 like a "study hall" to follow a MOOC or book and ask for help if they get stuck,
 or ask for help with their projects.
+
+### What happened
+
+Raymond talked about his experiences with bCourses (which runs on
+[Canvas](https://github.com/instructure/canvas-lms), which is produced by
+[Instructure](http://www.instructure.com)). He was initialy motivated to do
+automated grading, but it's been harder to do than to just have his TA do it.
+
+So, he's been working on being able to do something like clickers during his
+class, although some of the response features of Canvas are still in beta. I.e.,
+students can provide answers to questions during class, and then you can
+programmatically access what they respond.
+
+There's a REST API, and Raymonds working on a library to work with it. Let him
+know if you want to join the effort!
