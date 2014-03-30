@@ -69,3 +69,13 @@ And then look here for inspiration:
 
  - [View existing IPython notebooks](http://nbviewer.ipython.org/)
  - [A list of other interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+ ## Scientific computing resources at UC Berkeley
+ 
+ UC Berkeley has a lot of great resources for learning scientific computing and data science.  There are classes, tutorials, reading groups,
+ institutes, and much more.  Here is a short list of some places worth checking out:
+ 
+ - [The D-Lab](http://dlab.berkeley.edu)
+ - [The I-school masters in data science](http://datascience.berkeley.edu)
+ - [The Berkeley Institute for Data Science (more details soon)](http://vcresearch.berkeley.edu/datascience/bids-launch-dec-12)
+ - [The Berkeley VC for research page on data science](http://vcresearch.berkeley.edu/datascience)
