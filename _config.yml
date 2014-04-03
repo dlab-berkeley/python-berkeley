@@ -2,6 +2,8 @@ title: Python at Berkeley
 tagline: Site Tagline
 markdown: redcarpet
 pygments: true
+redcarpet:
+    extensions: ['smart']
 
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
