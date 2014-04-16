@@ -20,3 +20,11 @@ All we need to do is open a repo with a name (which might [be
 hard](http://martinfowler.com/bliki/TwoHardThings.html)!), put that code in
 there, et voilà, we've got this crazy new extension for everyone. And we'll need
 to factor out the other dependencies from Sage, but how hard can that be?
+
+### UPDATES: Total hijack by Thomas
+
+So, instead of all that, Thomas got us to join in the fun with the first round
+of the [Google Code Jam](https://code.google.com/codejam/). It was great fun
+(for us anyway), and you can still go back and practice on previous contests
+(though it's too late to join this year). There was much whiteboarding and
+coding about cookies and minesweeper.
