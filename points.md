@@ -2,5 +2,6 @@
 layout: page
 title: Points
 ---
-- Min R-K: 10,000
+- Min R-K: 9,001
 - Chris H: 2,000
+- Ivanov: 1,999
