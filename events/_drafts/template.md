@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Meeting Notes etc. WITHOUT a date (it's added automatically)
+title: Meeting Notes etc. WITHOUT a date (it's added automatically)
 author: You
 ---
 ### Use third level headings
