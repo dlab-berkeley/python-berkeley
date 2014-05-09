@@ -14,16 +14,17 @@ section).
 
 ## Getting Python
 
-Simple consoles: [PySchools](http://doc.pyschools.com/console) and [Codecademy Labs](http://labs.codecademy.com)
+Simple consoles: [PySchools](http://doc.pyschools.com/console) and [Codecademy
+Labs](http://labs.codecademy.com)
 
 The **easy** way, hosted IPython in your browser: [Wakari.io](http://wakari.io)
 
 If you are using OS X or Linux (or similar), you likely already have Python
 installed. You can just run `python` from the command line. (If you don't know
-how to run things from the command line, it's probably easiest to start with
-the Wakari link above, so you only have one thing to learn! If you want more
-of a power-user experience then you can start with the 
-[Command Line Crash Course](http://cli.learncodethehardway.org/).)
+how to run things from the command line, it's probably easiest to start with the
+Wakari link above, so you only have one thing to learn! If you want more of a
+power-user experience then you can start with the [Command Line Crash
+Course](http://cli.learncodethehardway.org/).)
 
 If you install Python, you should follow [the instructions on
 the IPython page](http://ipython.org/install.html). (IPython is an enhanced shell for Python.)
@@ -71,9 +72,10 @@ And then look here for inspiration:
  - [A list of other interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 # At Berkeley
-UC Berkeley has a lot of great resources for learning scientific computing and data science.  There are classes, tutorials, reading groups,
- institutes, and much more.  Here is a short list of some things worth checking out:
- 
+UC Berkeley has a lot of great resources for learning scientific computing and
+data science.  There are classes, tutorials, reading groups, institutes, and
+much more.  Below are some things worth checking out:
+
 ## Scientific computing resources at UC Berkeley
 - [The D-Lab](http://dlab.berkeley.edu)
 - [The I-school masters in data science](http://datascience.berkeley.edu)
@@ -82,8 +84,10 @@ UC Berkeley has a lot of great resources for learning scientific computing and d
 
 ## Python Courses at UC Berkeley
 - [CS9H](http://www-inst.eecs.berkeley.edu/~selfpace/class/cs9h/index.shtml) - Self-paced Python course. Requires some programming background. Good for people that know another language and want to pick up Python.
-- [AY250](http://profjsb.github.io/python-seminar/) - "Python computing for science." More advanced python course for scientists. 
+- [AY250](http://profjsb.github.io/python-seminar/) - "Python computing for science." More advanced python course for scientists.
 
-## Bootcamps at UC Berkeley
-- 3-day [Python Boot Camp](http://www.pythonbootcamp.info/home) in the Fall.
-- Various software carpentry bootcamps, check their [main site](http://software-carpentry.org/bootcamps/index.html) for bootcamp dates
+## Intensives
+
+Software carpentry offers a variety of trainings around the world, check their
+[main site](http://software-carpentry.org/bootcamps/index.html) for bootcamp
+dates.
