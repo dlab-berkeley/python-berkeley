@@ -19,4 +19,6 @@ These meetings are informal but fun. We meet from 5-7pm oon the 3rd floor of
 Barrows Hall in the D-lab Convening Room (largish meeting room). And there
 usually is pizza.
 
-*We'll post materials from the discussion here after the meeting.*
+UPDATE: We saw presentations on [PyClaw](https://github.com/clawpack/clawpack/)
+and a way to install such gnarly code with
+[HashDist](http://hashdist.readthedocs.org/en/latest/)/[HashStack](https://github.com/hashdist/hashstack)! **Even on Windows** (and equally gnarly supercomputing clusters)!
