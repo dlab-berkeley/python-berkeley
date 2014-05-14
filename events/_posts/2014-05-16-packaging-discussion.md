@@ -37,7 +37,7 @@ packages you're likely to want as wheels... I'm sure he'll tell us about it.
 The other solution, conda, is offered by Continuum analytics as part of their
 Anaconda distribution. You could install it in other python distributions, but
 (for now), it seems that few people do. Why are these guys putting energy into a
-separate effort? [Here's what Travis Oliphant (principle author of numpy) has to
+separate effort? [Here's what Travis Oliphant (principal author of numpy) has to
 say.](http://technicaldiscovery.blogspot.com/2013/12/why-i-promote-conda.html)
 
 Want to know more about this "cross-platform hombrew written in Python?" [Docs
