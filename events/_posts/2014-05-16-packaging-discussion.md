@@ -16,7 +16,7 @@ The scientific python community has had a long and difficult path with packaging
 like fortran and C.
 
 Indeed, [this week's SF Python
-meetup](http://www.meetup.com/sfpython/events/178647452/) is actualy discussing
+meetup](http://www.meetup.com/sfpython/events/178647452/) is actually discussing
 this very topic. We've got some scouts heading over, and we'll get a report
 back.
 
@@ -37,10 +37,10 @@ packages you're likely to want as wheels... I'm sure he'll tell us about it.
 The other solution, conda, is offered by Continuum analytics as part of their
 Anaconda distribution. You could install it in other python distributions, but
 (for now), it seems that few people do. Why are these guys putting energy into a
-separate effort? [Here's what Travis Oliphant (principal author of numpy) has to
+separate effort? [Here's what Travis Oliphant (principal author of NumPy) has to
 say.](http://technicaldiscovery.blogspot.com/2013/12/why-i-promote-conda.html)
 
-Want to know more about this "cross-platform hombrew written in Python?" [Docs
+Want to know more about this "cross-platform homebrew written in Python?" [Docs
 are online](http://conda.pydata.org/docs/index.html)
 
 ### Other packaging projects
@@ -54,7 +54,7 @@ to go with it.
 And for those of you old enough to remember, we've had [a
 presentation](/events/2013/12/11/coastal-ecosystem-simulation.html) here at the
 Workers' Party on [HashDist](http://hashdist.readthedocs.org/en/latest/) and
-friends (which, it turns out, uses conda).
+friends (which, it turns out, is moving towards supporting conda).
 
 ### Honorable mention
 
