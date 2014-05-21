@@ -68,3 +68,8 @@ cleaned up the documentation at [this link](http://collaboratool.berkeley.edu).
 I know I've missed a lot of parties, but I hope you welcome me back. I'm hoping
 to pull in some folks from the broader community that I met in my travels... I'm
 looking forwards to a great summer of Python!
+
+### Updates
+
+ - [Notebook from Matthew](http://nbviewer.ipython.org/github/matthew-brett/sketch-books/blob/master/Fun%20with%20wheels.ipynb)
+ - [Slides from Thomas](http://www.slideshare.net/takluyver/conda-alternative-packaging-for-scientific-applications)
