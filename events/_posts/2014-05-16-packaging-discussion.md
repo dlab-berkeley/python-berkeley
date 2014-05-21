@@ -71,5 +71,5 @@ looking forwards to a great summer of Python!
 
 ### Updates
 
- - [Notebook from Matthew](http://nbviewer.ipython.org/github/matthew-brett/sketch-books/blob/master/Fun%20with%20wheels.ipynb)
+ - [Notebook from Matthew](https://github.com/matthew-brett/sketch-books/blob/master/Fun%20with%20wheels.ipynb)
  - [Slides from Thomas](http://www.slideshare.net/takluyver/conda-alternative-packaging-for-scientific-applications)
