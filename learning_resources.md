@@ -2,6 +2,18 @@
 layout: page
 title: Python Learning Resources
 ---
+## Asking questions
+
+The best place to ask questions is probably [Stack
+Overflow](http://stackoverflow.com), but they like you to ask what they have
+decided are "good questions" there. Please take the time to read the ["tour" for
+Stack Overflow](http://stackoverflow.com/tour), or this more in-depth [essay on
+asking good questions by Eric
+Raymond](http://catb.org/~esr/faqs/smart-questions.html) - note that Eric DOES
+NOT want questions from anyone (unless he finds them in a forum)! Note also that
+the Berkeley Python community is pretty friendly, and you're always welcome to
+check with us on the mailing list.
+
 ## Zero-installation intros
 
 These resources include an integrated python interpreter that
