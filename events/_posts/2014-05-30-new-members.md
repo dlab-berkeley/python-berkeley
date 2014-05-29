@@ -11,6 +11,8 @@ university students, though!). Interested in welcoming the new Pythonistas? Come
 to the Python Workers' Party and say hi! Help your colleagues get going on an
 exciting new project, or show them what you've been working on.
 
+If you bring snacks, you **get points**.
+
 ### Summer plans?
 
 We'll also discuss plans for the summer, and point out that a sister group, [The
