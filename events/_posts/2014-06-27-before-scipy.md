@@ -12,3 +12,6 @@ website](https://conference.scipy.org/scipy2014/).
 
 We'll also have at least one new visitor, so plenty to do! Look forward to
 seeing you there!
+
+For those of you that want it, here's a link to [the current build of
+BCE](https://berkeley.box.com/s/ybysi4qcv75vw84tjl5h).
