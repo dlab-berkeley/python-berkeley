@@ -15,8 +15,8 @@ list](mailto:py4science@lists.berkeley.edu), or visit, call, or email us at the
 
 ## Join The Community!
 
-We keep track of our *weekly Friday 4-6pm meetings* on our [events
-page](/events).
+We keep track of our *Friday 4-6pm meetings* (this summer, about *every other
+week*) on our [events page](/events).
 
 Upcoming events, and links to our mailing list and calendar are always available
 in the side bar at the right (or above on mobile/narrow browsers). All are
