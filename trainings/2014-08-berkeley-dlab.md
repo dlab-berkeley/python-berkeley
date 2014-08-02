@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Berkeley D-Lab: Aug 2014
+title: Berkeley D-Lab -- Aug 2014
 ---
 While you're looking ahead to our training, check out our [Learning
 Resources](learning_resources.html).
