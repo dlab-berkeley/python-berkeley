@@ -13,6 +13,7 @@ below are meant as guidelines, and are not guaranteed!
 ### All days
 
 - Dav Clark
+- Matt Davis
 
 ### Monday, Aug 18 -- FUNdamentals
 
