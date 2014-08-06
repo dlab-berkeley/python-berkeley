@@ -1,11 +1,11 @@
 title: Python at Berkeley
-tagline: Site Tagline
-markdown: redcarpet
-pygments: true
-redcarpet:
+tagline: Site Tagline - currently unused
+highlight: pygments
+markdown: kramdown
+kramdown:
     extensions: ['smart']
 
-# This is the default format. 
+# This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 # permalink: /:categories/:year/:month/:day/:title
 
