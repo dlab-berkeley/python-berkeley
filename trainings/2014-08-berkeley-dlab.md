@@ -17,6 +17,8 @@ below are meant as guidelines, and are not guaranteed!
 
 ### Monday, Aug 18 -- FUNdamentals
 
+- Dillon Niederhut
+
 ### Tuesday, Aug 19 -- Basic operations, reusable code, and testing
 
 ### Wednesday, Aug 20 -- Strings (and using methods), making choices, and containers
