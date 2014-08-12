@@ -454,8 +454,7 @@ ol,
 dl,
 img {
   margin-top: 0;
-  /*margin-bottom: @line-height / @em;*/
-
+  margin-bottom: 1.625em;
 }
 small,
 .small,
@@ -540,6 +539,19 @@ No styleguide reference.
 }
 .list-linear li:last-child {
   margin-right: 0;
+}
+/* Local customizations */
+/* This gets rid of the margin when you've got a list embedded in another list */
+ul ul,
+ol ul,
+dl ul,
+ul ol,
+ol ol,
+dl ol,
+ul dl,
+ol dl,
+dl dl {
+  margin-bottom: 0;
 }
 /* LESS VARIABLES
 --------------------------------------------------------------------------------- */

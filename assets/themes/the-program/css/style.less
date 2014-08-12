@@ -2,6 +2,21 @@
 @import "_module.less";
 @import "_less-base.less";
 
+/* Local customizations */
+
+/* This gets rid of the margin when you've got a list embedded in another list */
+ul ul,
+ol ul,
+dl ul,
+ul ol,
+ol ol,
+dl ol,
+ul dl,
+ol dl,
+dl dl{
+margin-bottom: 0;
+}
+
 /* LESS VARIABLES
 --------------------------------------------------------------------------------- */
 @main-bg: #ffffff;
