@@ -18,7 +18,6 @@ topics (espeically the first two this year):
  - Computational Social Science and Digital Humanities
  - Engineering
 
-<br>
 There is also a [**Diversity
 Goal**](https://conference.scipy.org/scipy2014/diversity/). Anyone up for
 organizing something for women, people of color, or other under-represented

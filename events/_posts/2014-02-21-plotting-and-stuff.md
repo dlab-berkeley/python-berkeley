@@ -14,14 +14,12 @@ There are lots of ways to make your matplotlib experience better (especially
  - [brewer2mpl](https://github.com/jiffyclub/brewer2mpl/wiki)
  - [mpltools](http://tonysyu.github.io/mpltools/getting_started.html)
 
-<br>
 Then, there are numerous approaches using JavaScript (via python):
 
  - [mplD3](https://github.com/jakevdp/mpld3)
  - [Bokeh](http://bokeh.pydata.org/index.html)
  - [vincent](https://github.com/wrobstory/vincent)
 
-<br>
 And lastly, [plotly](https://plot.ly) doesn't quit fit into the above. It's a
 true web API for plotting.
 
