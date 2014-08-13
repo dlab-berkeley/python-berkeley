@@ -2,7 +2,12 @@
 layout: page
 title: Berkeley D-Lab -- Aug 2014
 ---
-While you're looking ahead to our training, check out our [Learning
+## Getting ready
+
+Please download and install BCE 0.1.1 for virtualbox. Links and instructions are
+[here](http://collaboratool.berkeley.edu/using-virtualbox.html).
+
+And, while you're looking ahead to our training, check out our [Learning
 Resources](learning_resources.html).
 
 ## Agenda and Instructors
@@ -10,29 +15,58 @@ Resources](learning_resources.html).
 Please note that the class will proceed at the pace of the students. Topics
 below are meant as guidelines, and are not guaranteed!
 
-### All days
+### Available all days
 
-- Dav Clark
-- Matt Davis
+ - Dav Clark
+ - Matt Davis
 
-### Monday, Aug 18 -- FUNdamentals
+### Monday, Aug 18 (FUNdamentals)
 
-- Dillon Niederhut
+**Assistant Instructor:**
 
-### Tuesday, Aug 19 -- Basic operations, reusable code, and testing
+ - Dillon Niederhut
 
-### Wednesday, Aug 20 -- Strings (and using methods), making choices, and containers
+### Tuesday, Aug 19
 
-### Thursday, Aug 21 -- Repeating things
+ - Basic operations
+ - reusable code
+ - and testing
 
-### Friday, Aug 22 -- Fancy stuff for science
+**Assistant Instructor:**
 
+ - TBD
+
+### Wednesday, Aug 20 
+
+ - Strings (and using methods)
+ - making choices
+ - and containers
+
+**Assistant Instructor:**
+
+ - TBD
+
+### Thursday, Aug 21 
+
+ - Repeating things
+
+**Assistant Instructor:**
+
+ - TBD
+
+### Friday, Aug 22 
+
+ - Fancy stuff for science
+
+**Assistant Instructor:**
+
+ - TBD
 
 ## Join The Community!
 
 We keep track of our *Friday 4-6pm meetings* (this summer, about *every other
-week*) on our [events page](/events). We'll have a meeting right after the
-Friday class.
+week*) on our [events page](/events). **We'll have a meeting right after the
+Friday class.**
 
 Upcoming events, and links to our mailing list and calendar are always available
 in the side bar at the right (or above on mobile/narrow browsers). All are
