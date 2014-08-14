@@ -4,7 +4,7 @@ The [Python Workers' Party](/events/2014/01/31/a-new-format.html) meets **every
 other Friday at 4-6pm**. Come and work on Python code and hear
 what other people are working on. Details are on the [events page](/events).
 
-Next meeting on 8/8 (no meeting 8/1).
+Next meeting on 8/22 (no meeting 8/15).
 
 Also check out our sister organization, [The Hacker
 Within](http://thehackerwithin.github.io/berkeley/) for handy links, and
