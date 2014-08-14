@@ -20,10 +20,11 @@ below are meant as guidelines, and are not guaranteed!
  - Dav Clark
  - Matt Davis
  - MinRK
+ - Danny Hermes (@bossylobster)
 
 ### Need to pick days
 
-@andyhayden1 @bossylobster @maebert @SamanthaZeitlin
+@andyhayden1 @maebert @SamanthaZeitlin
 
 ### Monday, Aug 18 (FUNdamentals)
 
