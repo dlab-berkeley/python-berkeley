@@ -15,14 +15,11 @@ Resources](learning_resources.html).
 Please note that the class will proceed at the pace of the students. Topics
 below are meant as guidelines, and are not guaranteed!
 
-### Available all days
+### Instructing all days
 
  - Dav Clark
- - Matt Davis
- - MinRK
- - Danny Hermes (@bossylobster)
 
-### Need to pick days
+### Welcome to pick days, or just show up!
 
 @andyhayden1 @maebert @SamanthaZeitlin
 
@@ -40,7 +37,7 @@ below are meant as guidelines, and are not guaranteed!
 
 **Assistant Instructor:**
 
- - TBD
+ - Matt Davis
 
 ### Wednesday, Aug 20
 
@@ -50,7 +47,7 @@ below are meant as guidelines, and are not guaranteed!
 
 **Assistant Instructor:**
 
- - TBD
+ - Danny Hermes
 
 ### Thursday, Aug 21
 
@@ -58,15 +55,15 @@ below are meant as guidelines, and are not guaranteed!
 
 **Assistant Instructor:**
 
- - TBD
+ - MinRK
 
 ### Friday, Aug 22
 
- - Fancy stuff for science
+ - Text analysis of Hip Hop lyrics with Python
 
-**Assistant Instructor:**
+**Guest Instructor:**
 
- - TBD
+ - Omoju Miller
 
 ## Join The Community!
 
