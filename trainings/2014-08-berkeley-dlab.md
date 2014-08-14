@@ -19,6 +19,11 @@ below are meant as guidelines, and are not guaranteed!
 
  - Dav Clark
  - Matt Davis
+ - MinRK
+
+### Need to pick days
+
+@andyhayden1 @bossylobster @maebert @SamanthaZeitlin
 
 ### Monday, Aug 18 (FUNdamentals)
 
@@ -36,7 +41,7 @@ below are meant as guidelines, and are not guaranteed!
 
  - TBD
 
-### Wednesday, Aug 20 
+### Wednesday, Aug 20
 
  - Strings (and using methods)
  - making choices
@@ -46,7 +51,7 @@ below are meant as guidelines, and are not guaranteed!
 
  - TBD
 
-### Thursday, Aug 21 
+### Thursday, Aug 21
 
  - Repeating things
 
@@ -54,7 +59,7 @@ below are meant as guidelines, and are not guaranteed!
 
  - TBD
 
-### Friday, Aug 22 
+### Friday, Aug 22
 
  - Fancy stuff for science
 
