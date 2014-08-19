@@ -34,6 +34,7 @@ below are meant as guidelines, and are not guaranteed!
  - Basic operations
  - reusable code
  - and testing
+ - [Etherpad for Python day 1](https://etherpad.mozilla.org/dlab-py-fun-day1-08-2014)
 
 **Assistant Instructor:**
 
