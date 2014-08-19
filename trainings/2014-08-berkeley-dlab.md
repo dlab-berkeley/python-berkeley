@@ -35,6 +35,7 @@ below are meant as guidelines, and are not guaranteed!
  - reusable code
  - and testing
  - [Etherpad for Python day 1](https://etherpad.mozilla.org/dlab-py-fun-day1-08-2014)
+ - [Python FUNdamentals on GitHub](https://github.com/dlab-berkeley/python-fundamentals)
  - [Intro Notebook](https://github.com/dlab-berkeley/python-fundamentals/blob/master/cheat-sheets/01-Intro.ipynb)
  - [Functions Notebook](https://github.com/dlab-berkeley/python-fundamentals/blob/master/cheat-sheets/02-Functions%20and%20Using%20Modules.ipynb)
 
