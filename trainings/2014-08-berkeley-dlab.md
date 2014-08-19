@@ -19,10 +19,6 @@ below are meant as guidelines, and are not guaranteed!
 
  - Dav Clark
 
-### Welcome to pick days, or just show up!
-
-@andyhayden1 @maebert @SamanthaZeitlin
-
 ### Monday, Aug 18 (FUNdamentals)
 
 **Assistant Instructor:**
