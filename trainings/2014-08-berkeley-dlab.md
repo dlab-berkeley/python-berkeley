@@ -21,6 +21,10 @@ below are meant as guidelines, and are not guaranteed!
 
 ### Monday, Aug 18 (FUNdamentals)
 
+ - [Etherpad for the class](https://etherpad.mozilla.org/dlab-pro-fun-08-2014)
+ - [Slides](https://docs.google.com/presentation/d/1RwrP4171VsgA-cj4p9h5bfOgZ4xWzH4Op_RlXqBgIss/edit?usp=sharing)
+ - [Git Fundamentals on GitHub](https://github.com/dlab-berkeley/git-fundamentals)
+
 **Assistant Instructor:**
 
  - Dillon Niederhut
