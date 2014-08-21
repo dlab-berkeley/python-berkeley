@@ -47,7 +47,8 @@ below are meant as guidelines, and are not guaranteed!
 
  - Strings (and using methods)
  - making choices
- - and containers
+ - [Etherpad for Python day 2](https://etherpad.mozilla.org/dlab-py-fun-day1-08-2014)
+ - Continue using resources from Tuesday!
 
 **Assistant Instructor:**
 
@@ -55,7 +56,11 @@ below are meant as guidelines, and are not guaranteed!
 
 ### Thursday, Aug 21
 
+ - containers
  - Repeating things
+ - [Etherpad for Python day 3](https://etherpad.mozilla.org/dlab-py-fun-day1-08-2014)
+ - Continue using resources from Tuesday and Wednesday!
+ - [Scrape the web](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 
 **Assistant Instructor:**
 
