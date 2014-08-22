@@ -23,6 +23,7 @@ section).
 
  - [Codecademy Python Track](http://www.codecademy.com/tracks/python)
  - [learnpython.org](http://www.learnpython.org/)
+ - [Code Wars](http://www.codewars.com)
 
 ## Getting Python
 
