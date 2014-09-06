@@ -13,7 +13,7 @@ If you have no idea where to go, drop us a line on the [py4science
 list](mailto:py4science@lists.berkeley.edu), or visit, call, or email us at the
 [D-Lab](http://dlab.berkeley.edu)!
 
-%^&* Also check us out on Twitter! WHAT IS OUR TWITTER HANDLE, Dav?!?
+Also check us out on Twitter! [@PyWorkParty](http://www.twitter.com/PyWorkParty)?!?
 
 ## Join The Community!
 
