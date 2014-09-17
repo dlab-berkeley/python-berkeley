@@ -1,10 +1,13 @@
 ### Notices
 
-The [Python Workers' Party](/events/2014/01/31/a-new-format.html) meets **every
-other Friday at 4-6pm**. Come and work on Python code and hear
-what other people are working on. Details are on the [events page](/events).
+The [Python Workers' Party](events/2014/09/19/new-structure.html) meets the
+*first* and *third* Friday of each month at **4:30-6pm**. Come and work on
+Python code and hear what other people are working on. The first Friday will be
+"New and Exciting" topics, while the third friday will focus on a "Beginners
+Mind" suitable to learners of all levels. Details are on the [events
+page](/events).
 
-Next meeting on 9/5 (no meeting 9/12).
+Still confused? Check out our calendar below!
 
 Also check out our sister organization, [The Hacker
 Within](http://thehackerwithin.github.io/berkeley/) for handy links, and
