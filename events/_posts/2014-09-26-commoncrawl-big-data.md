@@ -29,3 +29,4 @@ Friday are:
 
 Everyone is welcome!
 
+[Google hangout on air](https://www.youtube.com/watch?v=zbZ6WA7cMkM)
