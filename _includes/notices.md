@@ -1,6 +1,6 @@
 ### Notices
 
-The [Python Workers' Party](events/2014/09/19/new-structure.html) meets the
+The [Python Work Party](/events/2014/01/31/a-new-format.html) meets the
 *first* and *third* Friday of each month at **4:30-6pm**. Come and work on
 Python code and hear what other people are working on. The first Friday will be
 "New and Exciting" topics, while the third friday will focus on a "Beginners
