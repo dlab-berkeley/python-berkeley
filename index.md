@@ -26,7 +26,6 @@ welcome! Sometimes there are better resources (like [Stack
 Overflow](http://stackoverflow.com), or even just Google), but the Berkeley
 Python community is always happy to get you moving in the right direction.
 
-Check out the [Python Workers'
+Check out the [Python Work
 Party](events/2014/01/24/python-workers-party-rally.html) announcement for the
-current history of the Berkeley Python community, including our
-zany/revolutionary python party graphic!
+current history of the Berkeley Python community!

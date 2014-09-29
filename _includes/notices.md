@@ -1,6 +1,6 @@
 ### Notices
 
-The [Python Workers' Party](/events/2014/01/31/a-new-format.html) meets **every
+The [Python Work Party](/events/2014/01/31/a-new-format.html) meets **every
 other Friday at 4-6pm**. Come and work on Python code and hear
 what other people are working on. Details are on the [events page](/events).
 
