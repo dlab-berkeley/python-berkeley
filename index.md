@@ -17,8 +17,7 @@ Also check us out on Twitter! [@PyWorkParty](http://www.twitter.com/PyWorkParty)
 
 ## Join The Community!
 
-We keep track of our *Friday 4-6pm meetings* (this summer, about *every other
-week*) on our [events page](/events).
+We keep track of our *Friday 4:30-6pm meetings* (first and third Fridays of the month) on our [events page](/events).
 
 Upcoming events, and links to our mailing list and calendar are always available
 in the side bar at the right (or above on mobile/narrow browsers). All are
