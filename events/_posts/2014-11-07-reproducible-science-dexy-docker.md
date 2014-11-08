@@ -19,5 +19,8 @@ We're currently keeping track of links and things on [this etherpad](https://eth
 
 Note that Dexy has a [great tutorial](http://dexy.it/docs/getting-started.html).
 
+There is a (currently somewhat out-of-date) [Docker example on
+github](https://github.com/dexy/repro-demo).
+
 Follow [Ana](https://twitter.com/ananelson) and [Dexy](https://twitter.com/dexyit)
 on Twitter.
