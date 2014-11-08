@@ -12,3 +12,5 @@ any more authoritative than this!
 If there's interest, we may discuss some of the recent moves towards using the
 [Berkeley Common Environment](http://collaboratool.berkeley.edu/using-bce.html)
 with Docker.
+
+We're currently keeping track of links and things on [this etherpad](https://etherpad.mozilla.org/pywork-dexy-docker).
