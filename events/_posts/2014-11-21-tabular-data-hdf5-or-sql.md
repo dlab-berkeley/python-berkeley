@@ -18,5 +18,7 @@ examples of when you might use a relational database (using
 [sqlite](https://docs.python.org/3/library/sqlite3.html)) vs. an efficient
 tabular storage format (using [pytables](http://www.pytables.org/)).
 
+If there's time, she'll take us through some examples of using pytables.
+
 Bring your questions and data challenges, and let's see if we can solve *your*
 problems.
