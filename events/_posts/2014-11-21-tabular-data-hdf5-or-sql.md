@@ -19,6 +19,7 @@ examples of when you might use a relational database (using
 tabular storage format (using [pytables](http://www.pytables.org/)).
 
 If there's time, she'll take us through some examples of using pytables.
+Tutorial material is available [here](https://github.com/katyhuff/db-wkshp).
 
 Bring your questions and data challenges, and let's see if we can solve *your*
 problems.
