@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R from Python with rpy2: featuring rOpenSci!
+title: R from Python with rpy2 -- featuring rOpenSci!
 author: Dav Clark
 ---
 ### So you still want to use some R
