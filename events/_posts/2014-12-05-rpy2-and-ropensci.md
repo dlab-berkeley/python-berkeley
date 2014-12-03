@@ -3,6 +3,8 @@ layout: post
 title: R from Python with rpy2 - featuring rOpenSci!
 author: Dav Clark
 ---
+Our last formal meeting of the year!
+
 ### So you still want to use some R
 
 Sure, we all love Python, but sometimes we need some fancy stats or viz in R
@@ -17,3 +19,8 @@ IPython notebook.
 
 Yes! Unless, as per usual, you are on windows. If you're interested, I'll talk
 a bit about challenges that remain and what you might do to help.
+
+### Fancy teaching Python in the D-Lab Jan 12-16?
+
+It's a great experience, and we'll even pay you (a bit)! Email or tweet Dav (or
+[@PyWorkParty](https://twitter.com/pyworkparty)) if you're interested.
