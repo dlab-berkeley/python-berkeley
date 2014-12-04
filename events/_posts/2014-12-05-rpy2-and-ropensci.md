@@ -22,5 +22,5 @@ a bit about challenges that remain and what you might do to help.
 
 ### Fancy teaching Python in the D-Lab Jan 12-16?
 
-It's a great experience, and we'll even pay you (a bit)! Email or tweet Dav (or
-[@PyWorkParty](https://twitter.com/pyworkparty)) if you're interested.
+It's a great experience, and we'll even pay you (a bit)! Please register your
+interest at [this GitHub issue](https://github.com/dlab-berkeley/python-berkeley/issues/37) if you're interested!
