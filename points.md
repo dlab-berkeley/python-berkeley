@@ -2,6 +2,7 @@
 layout: page
 title: Points
 ---
+- jhamrick: 13,000
 - Min R-K: 9,001
 - Ivanov: 2,699
 - Jey K: 2,503
