@@ -1,13 +1,11 @@
 ### Notices
 
-The [Python Work Party](/events/2014/01/31/a-new-format.html) meets the
-*first* and *third* Friday of each month at **4:30-6pm**. Come and work on
-Python code and hear what other people are working on. The first Friday will be
-"New and Exciting" topics, while the third friday will focus on a "Beginners
-Mind" suitable to learners of all levels. Details are on the [events
-page](/events).
-
-Still confused? Check out our calendar below!
+The Python Work Party is on break until mid-January, when we'll start the year
+off with a [week-long
+training](http://dlab.berkeley.edu/training/python-intensive-2) (including
+[tools for programming like editors, the command line, and
+git](http://dlab.berkeley.edu/training/programming-fundamentals-0)). Details of
+[past events](/events) are still available.
 
 Also check out our sister organization, [The Hacker
 Within](http://thehackerwithin.github.io/berkeley/) for handy links, and

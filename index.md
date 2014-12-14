@@ -13,18 +13,17 @@ If you have no idea where to go, drop us a line on the [py4science
 list](mailto:py4science@lists.berkeley.edu), or visit, call, or email us at the
 [D-Lab](http://dlab.berkeley.edu)!
 
-Also check us out on Twitter! [@PyWorkParty](http://www.twitter.com/PyWorkParty)?!?
+Also check us out on Twitter:
+[@PyWorkParty](http://www.twitter.com/PyWorkParty)!
 
 ## Join The Community!
 
-We keep track of our *Friday 4:30-6pm meetings* (first and third Fridays of the month) on our [events page](/events).
+When we're in session, we keep track of our meetings on our [events
+page](/events). We'll likely start up again on January 16, but watch this space
+for more info!
 
 Upcoming events, and links to our mailing list and calendar are always available
-in the side bar at the right (or above on mobile/narrow browsers). All are
-welcome! Sometimes there are better resources (like [Stack
+in the side bar at the right (or above on mobile/narrow browsers). **All are
+welcome!** Sometimes there are better resources (like [Stack
 Overflow](http://stackoverflow.com), or even just Google), but the Berkeley
 Python community is always happy to get you moving in the right direction.
-
-Check out the [Python Work
-Party](events/2014/01/24/python-workers-party-rally.html) announcement for the
-current history of the Berkeley Python community!
