@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Berkeley D-Lab -- Aug 2014
+title: Berkeley D-Lab -- Jan 2015
 ---
 # Potential instructors
 
