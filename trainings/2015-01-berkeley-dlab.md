@@ -5,7 +5,8 @@ title: Berkeley D-Lab -- Jan 2015
 # Potential instructors
 
 Currently, this training is being organized here (via pull requests), and on the
-related issue on the github tracker.
+related [issue on the github
+tracker](https://github.com/dlab-berkeley/python-berkeley/issues/37).
 
 Below is an incomplete schematic of what the course will hopefully look like,
 including instructors that I think could work for that day. Currently, if an
