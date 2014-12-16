@@ -36,6 +36,8 @@ below are meant as guidelines, and are not guaranteed!
 
 ### Monday, Jan 12 (FUNdamentals)
 
+Instructor/Assisting: @rochelleterman
+
 Learn about the command line (in particular, installing packages and running
 scripts), PyCharm (and the general idea of text editors), and the IPython
 notebook (including the NBviewer).
@@ -62,6 +64,8 @@ Instructor: @omoju
 
 
 ### Wednesday, Jan 14
+
+Assisting: @rochelleterman
 
  - Strings (and using methods)
  - making choices
