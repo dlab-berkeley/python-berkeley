@@ -36,7 +36,7 @@ below are meant as guidelines, and are not guaranteed!
 
 ### Monday, Jan 12 (FUNdamentals)
 
-Instructor/Assisting: @rochelleterman
+Instructor (confirmed!): @rochelleterman
 
 Learn about the command line (in particular, installing packages and running
 scripts), PyCharm (and the general idea of text editors), and the IPython
@@ -65,6 +65,7 @@ Instructor: @omoju
 
 ### Wednesday, Jan 14
 
+Instructor: @emhart
 Assisting: @rochelleterman
 
  - Strings (and using methods)
@@ -75,6 +76,7 @@ Assisting: @rochelleterman
 
 ### Thursday, Jan 15
 
+Instructor: @takluyver
 Assisting: @rdhyee
 
  - containers
@@ -86,6 +88,7 @@ Assisting: @rdhyee
 
 ### Friday, Jan 16
 
+Lead: @davclark
 
 ## Join The Community!
 
