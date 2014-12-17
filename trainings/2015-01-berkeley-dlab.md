@@ -65,7 +65,7 @@ Instructor: @omoju
 
 ### Wednesday, Jan 14
 
-Instructor: @emhart
+Instructor: @emhart  
 Assisting: @rochelleterman
 
  - Strings (and using methods)
@@ -76,7 +76,7 @@ Assisting: @rochelleterman
 
 ### Thursday, Jan 15
 
-Instructor: @takluyver
+Instructor: @takluyver  
 Assisting: @rdhyee
 
  - containers
@@ -88,7 +88,7 @@ Assisting: @rdhyee
 
 ### Friday, Jan 16
 
-Lead: @davclark
+Instructor: @davclark
 
 ## Join The Community!
 
