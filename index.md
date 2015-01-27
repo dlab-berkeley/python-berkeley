@@ -18,12 +18,23 @@ Also check us out on Twitter:
 
 ## Join The Community!
 
-When we're in session, we keep track of our meetings on our [events
-page](/events). We'll likely start up again on January 16, but watch this space
-for more info!
+**Social Computing** is a bi-weekly meeting in the
+[D-Lab](http://dlab.berkeley.edu/location) providing a social setting focused on
+social science and computing. You are also welcome if you aren't quite a social
+scientist. All events are announced via the mailing list, and [the mailing list
+archive *is* the website for the
+group](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu/).
 
-Upcoming events, and links to our mailing list and calendar are always available
-in the side bar at the right (or above on mobile/narrow browsers). **All are
-welcome!** Sometimes there are better resources (like [Stack
-Overflow](http://stackoverflow.com), or even just Google), but the Berkeley
-Python community is always happy to get you moving in the right direction.
+**The Hacker Within** supports the development of your inner hacker, in a weekly
+meeting in [BIDS](http://bids.berkeley.edu/about/directions-and-travel) for
+sharing skills and best practices for scientific computation. You can find out
+more on [their website](http://thehackerwithin.github.io/berkeley/).
+
+The Python Work(ers) Party is now relegated to [the
+archives](/events/archives.html)!
+
+The py4science mailing list is still functional, but please subscribe to the
+Social Computing or The Hacker Within mailing lists for the events in those
+groups.  While there are often better resources (like [Stack
+Overflow](http://stackoverflow.com), or even just Google), the Berkeley Python
+community is always happy to get you moving in the right direction.
