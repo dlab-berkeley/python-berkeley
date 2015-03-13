@@ -14,7 +14,10 @@ this site.
 ### Stay in touch
 
  - [py4science mailing
-   list](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu) - general campus discussion list for Python.
- - [Calendar](https://www.google.com/calendar/embed?src=moeh9ilpdjicogfaav9jtplh28%40group.calendar.google.com&ctz=America/Los_Angeles)
+   list](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu)
+   (a general campus discussion list for Python).
+ - Relevant events can be found on the [D-Lab
+   Calendar](http://dlab.berkeley.edu/calendar-node-field-date) and the [BIDS
+   Calendar](http://bids.berkeley.edu/events).
  - Follow [@PyWorkParty](http://twitter.com/PyWorkParty) on Twitter (ask Dav if
    you'd like the password).
