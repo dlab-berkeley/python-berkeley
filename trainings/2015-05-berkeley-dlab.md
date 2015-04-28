@@ -85,7 +85,7 @@ Instructor: @davclark
 ## Join The Community!
 
 We keep track of our *Friday 2:30-4:30pm Social Computing meetings* on our [mailing
-list](https://www.mail-archive.org/socialcomputing@lists.berkeley.edu).
+list](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu).
 **We'll also have a short meeting right after the Friday class.**
 
 Upcoming events, and links to our mailing list and calendar, along with our
