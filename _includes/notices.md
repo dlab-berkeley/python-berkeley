@@ -1,7 +1,7 @@
 ### Campus Groups
 
 [Social
-Computing](https://www.mail-archive.org/socialcomputing@lists.berkeley.edu) uses
+Computing](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu) uses
 its mailing list archive as its website. You can also [subscribe to said mailing
 list](https://calmail.berkeley.edu/manage/list/listinfo/socialcomputing@lists.berkeley.edu).
 
