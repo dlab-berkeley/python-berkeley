@@ -15,9 +15,9 @@ A sign-up page still needs to be made on the D-Lab site.
 
 ## Getting ready
 
-Please download and install BCE 0.2 for VirtualBox. Links and instructions are
-[here](http://collaboratool.berkeley.edu/using-virtualbox.html). NOTE - BCE 0.2
-IS NOT YET RELEASED. URL IS SUBJECT TO CHANGE!
+We'll use the most recent version of BCE for VirtualBox. Links and instructions are
+[here](http://bce.berkeley.edu/install.html). NOTE - BCE MAY
+BE UPDATED PRIOR TO THE WORKSHOP! PLEASE CHECK BACK THE WEEK BEFORE!
 
 And, while you're looking ahead to our training, check out our [Learning
 Resources](learning_resources.html).
