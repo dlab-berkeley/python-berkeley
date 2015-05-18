@@ -15,9 +15,12 @@ A sign-up page still needs to be made on the D-Lab site.
 
 ## Getting ready
 
-We'll use the most recent version of BCE for VirtualBox. Links and instructions are
-[here](http://bce.berkeley.edu/install.html). NOTE - BCE MAY
-BE UPDATED PRIOR TO THE WORKSHOP! PLEASE CHECK BACK THE WEEK BEFORE!
+We'll use the most recent version of BCE for VirtualBox. Links and instructions
+are [here](http://bce.berkeley.edu/install.html). While it's a bit sharp-edged,
+we'll use the most recent [Summer Preview
+version](https://berkeley.box.com/s/0hibyy77ojyv6v1ybynioz44htwzs99v), along
+with the most recent version of
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
 And, while you're looking ahead to our training, check out our [Learning
 Resources](learning_resources.html).
@@ -33,10 +36,10 @@ below are meant as guidelines, and are not guaranteed!
 Instructor: @davclark
 
 Learn about the command line (in particular, installing packages and running
-scripts), PyCharm (and the general idea of text editors), and the IPython
-notebook (including the NBviewer).
+scripts), getting files with Git, PyCharm (and the general idea of text
+editors), and the learning materials embedded in PyCharm.
 
- - [Etherpad for the class]()
+ - [Etherpad for the class](https://etherpad.mozilla.org/2015-05-dlab-fundamentals)
  - [Slides](https://docs.google.com/presentation/d/1RwrP4171VsgA-cj4p9h5bfOgZ4xWzH4Op_RlXqBgIss/edit?usp=sharing)
  - [Git Fundamentals on GitHub](https://github.com/dlab-berkeley/git-fundamentals)
 
