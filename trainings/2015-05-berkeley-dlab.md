@@ -48,17 +48,20 @@ editors), and the learning materials embedded in PyCharm.
 
 Instructor: @davclark
 
- - Drawing things
  - Text analysis of Hip Hop lyrics with Python
 
  - Basic operations
- - reusable code
- - and testing
- - [Etherpad for Python day 1]()
- - [Python FUNdamentals on GitHub](https://github.com/dlab-berkeley/python-fundamentals)
- - [Intro Notebook](https://github.com/dlab-berkeley/python-fundamentals/blob/master/cheat-sheets/01-Intro.ipynb)
- - [Functions Notebook](https://github.com/dlab-berkeley/python-fundamentals/blob/master/cheat-sheets/02-Functions%20and%20Using%20Modules.ipynb)
+ - Working with strings (text)
+ - Containers
+ - Loops
+ - Reusable code
+ - [Etherpad for day 2]()
 
+Materials:
+
+ - [HipHopathy](https://github.com/omoju/hiphopathy)
+ - [NBViewer](http://nbviewer.ipython.org)
+ - [Our Project](https://github.com/davclark/2015-05-fundamentals-hiphopathy)
 
 ### Wednesday, May 20
 
