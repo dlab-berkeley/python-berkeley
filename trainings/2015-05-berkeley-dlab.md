@@ -55,7 +55,7 @@ Instructor: @davclark
  - Containers
  - Loops
  - Reusable code
- - [Etherpad for day 2]()
+ - [Etherpad for day 2](https://etherpad.mozilla.org/2015-05-dlab-fundamentals-2)
 
 Materials:
 
@@ -69,7 +69,7 @@ Instructor: @davclark
 
  - Strings (and using methods)
  - making choices
- - [Etherpad for Python day 2]()
+ - [Etherpad for Python day 3](https://etherpad.mozilla.org/2015-05-dlab-fundamentals-3)
  - Continue using resources from Tuesday!
 
 
@@ -79,24 +79,40 @@ Instructor: @deniederhut
 
  - containers
  - Repeating things
- - [Etherpad for Python day 3]()
+ - TwitterAPI (link?)
+ - Etherpad for Python day 4??
  - Continue using resources from Tuesday and Wednesday!
- - [Scrape the web](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 
 
 ### Friday, Jan 16
 
 Instructor: @davclark
 
+ - [Etherpad for Python day
+   5](https://etherpad.mozilla.org/2015-05-dlab-fundamentals-5)
+ - Working with tabular data, standard library vs.  Pandas (the [standard
+   documentation](http://pandas.pydata.org/pandas-docs/version/0.16.1/) is a bit
+   tough, so I'd recommend [this
+   book](http://proquest.safaribooksonline.com/book/programming/python/9781449323592))
+ - For plotting, the place to start is
+   [matplotlib](http://matplotlib.org/index.html), but
+   [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) looks nicer by
+   default (matplotlib is also covered well in the above-mentioned
+   [book](http://proquest.safaribooksonline.com/book/programming/python/9781449323592)).
+ - [Scrape the web](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+ - Dav's current project to [scrape the CA Dept. of
+   Ed.](https://github.com/davclark/LEA-scrapr)
+ - Saving time with [NLTK](http://www.nltk.org/)
+
 ## Join The Community!
 
 We keep track of our *Friday 2:30-4:30pm Social Computing meetings* on our [mailing
 list](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu).
-**We'll also have a short meeting right after the Friday class.**
+**We won't have a meeting right after the Friday class, but join the mailing
+list! (look in the sidebar, or above on mobile/narrow browsers).**
 
 Upcoming events, and links to our mailing list and calendar, along with our
-sister organization, The Hacker Within, are always available in the side bar at
-the right (or above on mobile/narrow browsers). All are welcome! Sometimes there
-are better resources (like [Stack Overflow](http://stackoverflow.com), or even
-just Google), but the Berkeley Python community is always happy to get you
-moving in the right direction.
+sister organization, The Hacker Within, are also available in the side bar at
+the right. All are welcome! Sometimes there are better resources (like [Stack
+Overflow](http://stackoverflow.com), or even just Google), but the Berkeley
+Python community is always happy to get you moving in the right direction.
