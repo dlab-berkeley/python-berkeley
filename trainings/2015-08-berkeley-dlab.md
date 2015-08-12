@@ -25,20 +25,19 @@ Resources](learning_resources.html).
 Please note that the class will proceed at the pace of the students. Topics
 below are meant as guidelines, and are not guaranteed!
 
-### Monday, August 17
+
+### Monday, August 17 [(Programming FUNdamentals)](http://dlab.berkeley.edu/training/programming-fundamentals-4)
 
 Instructor: @deniederhut
 
-Learn about the command line (in particular, installing packages and running
-scripts), getting files with Git, PyCharm (and the general idea of text
-editors), and the learning materials embedded in PyCharm.
+Learn the fundamentals of unix systems, the command line, scripts, and version control.  
 
- - Etherpad for the class (or similar) goes here!
- - [Slides](https://docs.google.com/presentation/d/1RwrP4171VsgA-cj4p9h5bfOgZ4xWzH4Op_RlXqBgIss/edit?usp=sharing)
+ - [Unix Fundamentals](https://docs.google.com/presentation/d/1RwrP4171VsgA-cj4p9h5bfOgZ4xWzH4Op_RlXqBgIss/edit?usp=sharing)
  - [Git Fundamentals on GitHub](https://github.com/dlab-berkeley/git-fundamentals)
 
 
-### Tuesday, May 19
+
+### Tuesday, August 18
 
 Instructor: @davclark
 
@@ -57,9 +56,9 @@ Materials:
  - [NBViewer](http://nbviewer.ipython.org)
  - [Our Project](https://github.com/davclark/2015-05-fundamentals-hiphopathy)
 
-### Wednesday, May 20
+### Wednesday, August 19
 
-Instructor: @davclark
+Instructor: Kunal Marwaha
 
  - Strings (and using methods)
  - making choices
@@ -69,18 +68,18 @@ Instructor: @davclark
 
 ### Thursday, May 21
 
-Instructor: @davclark
+Instructor: @deniederhut
 
  - containers
  - Repeating things
- - TwitterAPI (link?)
+ - [APIs, Twitter, and Bots](https://github.com/deniederhut/workshop_bots)
  - Etherpad for Python day 4
  - Continue using resources from Tuesday and Wednesday!
 
 
 ### Friday, Jan 16
 
-Instructor: @rdhyee (TBD)
+Instructor: @rdhyee
 
  - Etherpad for Python day 5??
  - Working with tabular data, standard library vs.  Pandas (the [standard
