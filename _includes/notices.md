@@ -1,22 +1,23 @@
-### Notices
+### Campus Groups
 
-The [Python Workers' Party](/events/2014/01/31/a-new-format.html) meets **every
-other Friday at 4-6pm**. Come and work on Python code and hear
-what other people are working on. Details are on the [events page](/events).
+[Social
+Computing](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu) uses
+its mailing list archive as its website. You can also [subscribe to said mailing
+list](https://calmail.berkeley.edu/manage/list/listinfo/socialcomputing@lists.berkeley.edu).
 
-Next meeting on 8/8 (no meeting 8/1).
+[The Hacker Within](http://thehackerwithin.github.io/berkeley/) is a weekly
+meeting about scientific computing.
 
-Also check out our sister organization, [The Hacker
-Within](http://thehackerwithin.github.io/berkeley/) for handy links, and
-(perhaps) some upcoming events.
-
-### Location
-
-All meetings take place at the [D-Lab](http://dlab.berkeley.edu/location),
-located on the third floor of Barrows Hall (unless otherwise noted).
+The Python Work Party [archives](/events/archive.html) are also maintained on
+this site.
 
 ### Stay in touch
 
- - [py4science mailing list](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu). Sign up there to stay tuned!
- - [Calendar](https://www.google.com/calendar/embed?src=moeh9ilpdjicogfaav9jtplh28%40group.calendar.google.com&ctz=America/Los_Angeles)
-
+ - [py4science mailing
+   list](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu)
+   (a general campus discussion list for Python).
+ - Relevant events can be found on the [D-Lab
+   Calendar](http://dlab.berkeley.edu/calendar-node-field-date) and the [BIDS
+   Calendar](http://bids.berkeley.edu/events).
+ - Follow [@PyWorkParty](http://twitter.com/PyWorkParty) on Twitter (ask Dav if
+   you'd like the password).

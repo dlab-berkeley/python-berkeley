@@ -23,6 +23,12 @@ section).
 
  - [Codecademy Python Track](http://www.codecademy.com/tracks/python)
  - [learnpython.org](http://www.learnpython.org/)
+ - [Code Wars](http://www.codewars.com)
+
+## Intro materials on GitHub
+
+ - [Dav's D-Lab materials](https://github.com/dlab-berkeley/python-fundamentals)
+ - [Omoju's Hip Hop / Turtle curriculum](https://github.com/davclark/ultra_scrapr)
 
 ## Getting Python
 
@@ -69,7 +75,12 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
     - [O'Reilly Safari Bookshelf](http://proquest.safaribooksonline.com/)
     - [Springer Link](http://link.springer.com/search?facet-content-type=%22Book%22)
 
-## Data / scientific computing
+## Other topics
+
+A general resource when you're exploring new topics is the [Hitchhiker's Guide
+to Python](http://docs.python-guide.org/en/latest/). (Just like this site, you
+can [contribute to the Hitchhiker's Guide via
+GitHub](https://github.com/kennethreitz/python-guide).)
 
 [Python for Data Analysis](http://proquest.safaribooksonline.com/book/programming/python/9781449323592) is a great place to get started.
 Or, you can learn about these tools from their websites:

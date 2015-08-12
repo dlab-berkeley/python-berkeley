@@ -25,7 +25,7 @@ we'll be ready to have a quick look at:
    module](http://pandas.pydata.org/pandas-docs/stable/remote_data.html) for one
    example.
 
-<br>But we always welcome short talks from everyone! Particularly if you are haven't
+But we always welcome short talks from everyone! Particularly if you are haven't
 spoken before!
 
 If there's interest, after the lightning talks, I (Dav) will lead a group on
