@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Berkeley D-Lab -- May 2015
+title: Berkeley D-Lab -- August 2015
 ---
 ## Welcome to Python!
 
@@ -45,8 +45,6 @@ Instructor: @davclark
 
  - Basic operations
  - Working with strings (text)
- - Containers
- - Loops
  - Reusable code
  - Etherpad for the class (or similar) goes here!
 
@@ -60,8 +58,10 @@ Materials:
 
 Instructor: Kunal Marwaha
 
- - Strings (and using methods)
- - making choices
+ - Variabls
+ - Modules
+ - Functions
+ - Web-scraping
  - Etherpad for the class (or similar) goes here!
  - Continue using resources from Tuesday!
 
@@ -70,8 +70,9 @@ Instructor: Kunal Marwaha
 
 Instructor: @deniederhut
 
- - containers
- - Repeating things
+ - Containers
+ - Loops (for and while)
+ - Control
  - [APIs, Twitter, and Bots](https://github.com/deniederhut/workshop_bots)
  - Etherpad for Python day 4
  - Continue using resources from Tuesday and Wednesday!
