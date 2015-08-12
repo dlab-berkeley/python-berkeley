@@ -66,7 +66,7 @@ Instructor: Kunal Marwaha
  - Continue using resources from Tuesday!
 
 
-### Thursday, May 21
+### Thursday, August 20
 
 Instructor: @deniederhut
 
@@ -77,7 +77,7 @@ Instructor: @deniederhut
  - Continue using resources from Tuesday and Wednesday!
 
 
-### Friday, Jan 16
+### Friday, August 21
 
 Instructor: @rdhyee
 
