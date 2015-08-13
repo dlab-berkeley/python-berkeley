@@ -56,7 +56,7 @@ Materials:
 
 ### Wednesday, August 19
 
-Instructor: Kunal Marwaha
+Instructor: @marwahaha
 
  - Variabls
  - Modules
