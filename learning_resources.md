@@ -104,6 +104,11 @@ much more.  Below are some things worth checking out:
 - [The I-school masters in data science](http://datascience.berkeley.edu)
 - [The Berkeley Institute for Data Science (more details soon)](http://vcresearch.berkeley.edu/datascience/bids-launch-dec-12)
 - [The Berkeley VC for research page on data science](http://vcresearch.berkeley.edu/datascience)
+- [The Open Computing Facility](https://www.ocf.berkeley.edu/), which provides
+  free access to highly-performant servers with Python, IPython, and related
+  tools to all members of the UC Berkeley community. OCF volunteers also
+  maintain [a Python library](https://github.com/ocf/ocflib) for interacting
+  with university resources like LDAP and CAS.
 
 ## Python Courses at UC Berkeley
 - [CS9H](http://www-inst.eecs.berkeley.edu/~selfpace/class/cs9h/index.shtml) - Self-paced Python course. Requires some programming background. Good for people that know another language and want to pick up Python.
