@@ -42,11 +42,10 @@ Learn the fundamentals of unix systems, the command line, scripts, and version c
 Instructor: @davclark
 
  - Text analysis of Hip Hop lyrics with Python
-
  - Basic operations
  - Working with strings (text)
  - Reusable code
- - Etherpad for the class (or similar) goes here!
+ - [Click here for the class Etherpad](https://etherpad.mozilla.org/2015-08-dlab-python)
 
 Materials:
 
@@ -58,11 +57,11 @@ Materials:
 
 Instructor: @marwahaha
 
- - Variabls
+ - Variables
  - Modules
  - Functions
  - Web-scraping
- - Etherpad for the class (or similar) goes here!
+ - [Click here for the class Etherpad](https://etherpad.mozilla.org/2015-08-dlab-python)
  - Continue using resources from Tuesday!
 
 
@@ -74,7 +73,7 @@ Instructor: @deniederhut
  - Loops (for and while)
  - Control
  - [APIs, Twitter, and Bots](https://github.com/deniederhut/workshop_bots)
- - Etherpad for Python day 4
+ - [Click here for the class Etherpad](https://etherpad.mozilla.org/2015-08-dlab-python)
  - Continue using resources from Tuesday and Wednesday!
 
 
@@ -82,7 +81,7 @@ Instructor: @deniederhut
 
 Instructor: @rdhyee
 
- - Etherpad for Python day 5??
+ - [Click here for the class Etherpad](https://etherpad.mozilla.org/2015-08-dlab-python)
  - Working with tabular data, standard library vs.  Pandas (the [standard
    documentation](http://pandas.pydata.org/pandas-docs/version/0.16.1/) is a bit
    tough, so I'd recommend [this
