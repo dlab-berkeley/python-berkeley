@@ -51,7 +51,7 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
 
  - [Tutorial from the official Python website](http://docs.python.org/2/tutorial/)
  - [Other resources are available on the Python wiki](http://wiki.python.org/moin/BeginnersGuide)
- - [A useful collection of python tutorials](http://freepythontips.wordpress.com/2013/09/01/best-python-resources/)
+ - [A useful collection of python tutorials](http://pythontips.com/2013/09/01/best-python-resources/)
  - [Introduction to Programming  a set of mini-lecture
    notebooks](http://nbviewer.ipython.org/urls/raw.github.com/ehmatthes/intro_programming/master/notebooks/intro_programming_index.ipynb)
 
@@ -71,6 +71,7 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
  - [6 Free ebooks for python](http://readwrite.com/2011/03/25/python-is-an-increasingly-popu)
  - [Python for Data Analysis](http://proquest.safaribooksonline.com/book/programming/python/9781449323592)
    (a great intro to real scientific computing with Python)
+ - [Intermediate Python](http://book.pythontips.com)
  - At Berkeley, we have access to the following e-book catalogs (which includes the Data Analysis book above):
     - [O'Reilly Safari Bookshelf](http://proquest.safaribooksonline.com/)
     - [Springer Link](http://link.springer.com/search?facet-content-type=%22Book%22)
