@@ -21,6 +21,7 @@ works through your web browser. To use the other resources, you'll
 need to get access to a python interpreter (described in the next
 section).
 
+ - [Try Python](https://try-python.appspot.com/)
  - [Codecademy Python Track](http://www.codecademy.com/tracks/python)
  - [learnpython.org](http://www.learnpython.org/)
  - [Code Wars](http://www.codewars.com)
