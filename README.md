@@ -15,6 +15,8 @@ LESS, you'll need lessc (install via npm - the 'node package manager') or some
 other tool (my wife likes Crunch). Please don't edit the CSS directly except in
 an emergency.
 
+Navigate to the ```assets/themes/the-program/css/``` directory. Make the changes to the LESS files, and run ```lessc style.less style.css```. Then recompile with Jekyll (```jekyll serve```) and things should be good.
+
 ## Page templates
 
     _includes/themes/the-progam
