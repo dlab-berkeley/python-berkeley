@@ -23,10 +23,12 @@ The Hacker Within supports the development of your inner hacker, in a [weekly me
 
 
 ### Learn Python Working Group
-You are on our page! We meet weekly at the D-Lab. This is for novices.
+You are on our page! We meet weekly at the D-Lab. We hold informal weekly meetings teaching and learning about different topics in the Python programming language, especially for social science, data science, and visualization. You can [subscribe to our mailing list here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu). 
+
+
 
 ### py4science
-The py4science mailing list is still functional. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu) This is a general campus discussion list for Python.
+The py4science mailing list is still functional. This is a general campus discussion and announcement list for Python. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu)
 
 ### Data Science Resource List
 [This is a listing of data science groups](http://marwahaha.github.io/datamap/support) at UC Berkeley, where you can get help.
@@ -49,9 +51,8 @@ The Python Work(ers) Party is now relegated to the archives! [Twitter account he
 ### Events at D-Lab
 [http://dlab.berkeley.edu/calendar-node-field-date](http://dlab.berkeley.edu/calendar-node-field-date)
 
-### Old events calendar from this page
-* [here they are](/events/archive)
-* [here are links to old trainings](/trainings)
+### Old Python Workers' Party Events
+[link to old events](/events/archive)
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.
