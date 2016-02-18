@@ -50,8 +50,8 @@ The Python Work(ers) Party is now relegated to the archives! [Twitter account he
 [http://dlab.berkeley.edu/calendar-node-field-date](http://dlab.berkeley.edu/calendar-node-field-date)
 
 ### Old events calendar from this page
-* [here they are](/learnpython/events/archive)
-* [here are links to old trainings](/learnpython/trainings)
+* [here they are](/events/archive)
+* [here are links to old trainings](/trainings)
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.

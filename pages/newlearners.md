@@ -58,11 +58,11 @@ There are a couple key differences for novice programmers:
 
 #### Beyond
 
-* See the Learn Python Working Group&#39;s past topics [here](/learnpython/past).
+* See the Learn Python Working Group&#39;s past topics [here](/past).
 
-* Others in the [community](/learnpython/community) may have relevant materials.
+* Others in the [community](/community) may have relevant materials.
 
-* Also, see the [learning resources](/learnpython/resources) page.
+* Also, see the [learning resources](/resources) page.
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu, or fork me on Github.
