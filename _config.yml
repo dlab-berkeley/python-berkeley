@@ -1,91 +1,51 @@
-title: Python at Berkeley
-tagline: Site Tagline - currently unused
-highlight: pygments
+# Site settings
+title: Learn Python!
+email: marwahaha@berkeley.edu
+description: New to programming? Check out Learn Python, a D-Lab Working Group.
+# > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+
+gems:
+  - jekyll-redirect-from
+
+#Show future posts!
+future: true
+
+
+
+# README README comment the below line out for local stuff!
+baseurl: "http://marwahaha.github.io/learnpython" # the subpath of your site, e.g. /blog/
+
+
+
+
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username: marwahaha
+permalink: /:year-:month-:day-:title/
+# this is the url root of the view source link on the footer page.
+viewsourceroot: https://github.com/marwahaha/learnpython/blob/master/
+# this is the url root of the create page link on the footer page.
+newsourceroot: https://github.com/marwahaha/learnpython/blob/master
+#########################################
+# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
+#duoshuo_shortname: lixizhi
+#duoshuo_url: "http://lixizhi.github.io"
+# disqus.com commenting system. please note that it is exclusive with duoshuo.com
+#disqus_shortname: lixizhi
+#disqus_url: "http://lixizhi.github.io"
+#########################################
+
+# Build settings
 markdown: kramdown
+
 kramdown:
-    extensions: ['smart']
+    smartquotes: ["apos", "apos", "quot", "quot"]
 
-# This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
-# permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "style.less"]
-
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-# title : Jekyll Bootstrap
-# tagline: Site Tagline
-# author :
-#   name : Name Lastname
-#   email : blah@email.test
-#   github : username
-#   twitter : username
-#   feedburner : feedname
-
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.io, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-
-production_url : http://python.berkeley.edu
-
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
-JB :
-  version : 0.3.0
-
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
-  # comments :
-  #   provider : disqus
-  #   disqus :
-  #     short_name : jekyllbootstrap
-  #   livefyre :
-  #     site_id : 123
-  #   intensedebate :
-  #     account : 123abc
-  #   facebook :
-  #     appid : 123
-  #     num_posts: 5
-  #     width: 580
-  #     colorscheme: light
-
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #
-  analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-41111933-1'
-  #   getclicky :
-  #     site_id : 
-  #   mixpanel :
-  #       token : '_MIXPANEL_TOKEN_'
-  #   piwik :
-  #       baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-  #       idsite : '1'                   # the id of the site on Piwik
-
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
-  sharing :
-    provider : false
-
-  # Settings for all other include helpers can be defined by creating 
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"   
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
+# highlight
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false

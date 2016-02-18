@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Berkeley D-Lab -- August 2015
+redirect_from: /trainings/2015-08-berkeley-dlab.html
 ---
+<!-- title: Berkeley D-Lab -- August 2015 -->
+
+
 ## Welcome to Python!
 
 Below is a *schematic* of what the course will look like, including instructors

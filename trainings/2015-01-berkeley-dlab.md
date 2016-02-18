@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Berkeley D-Lab -- Jan 2015
+redirect_from: /trainings/2015-01-berkeley-dlab.html
 ---
+<!-- title: Berkeley D-Lab -- Jan 2015 -->
+
+
 # Potential instructors
 
 Currently, this training is being organized here (via pull requests), and on the

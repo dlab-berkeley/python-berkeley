@@ -1,31 +1,23 @@
 ---
 layout: default
 ---
-<article class="unit-article layout-page">
-  <div class="unit-inner unit-article-inner">
-    <div class="content">
-      <header>
-        <div class="unit-head">
-          <div class="unit-inner unit-head-inner">
-            <h1 class="h2 entry-title">{{ page.title }}</h1>
-          </div><!-- unit-inner -->
-        </div><!-- unit-head -->
-      </header>
-
-      <div class="bd">
-        <div class="entry-content">
-          {{ content }}
-        </div><!-- entry-content -->
-      </div><!-- bd -->
-
-      <footer class="unit-foot">
-        <div class="unit-inner unit-foot-inner">
-          <p class="gotop">
-            <a href="#page">Back to Top</a>
-          </p>
-        </div>
-      </footer>
-
-    </div><!-- content -->
-  </div><!-- unit-inner -->
-</article>
+<div class="row">
+  <div id="myArticle" class="col-sm-9">
+    <div class="post-area post">
+      <article>
+        {{content}}
+      </article>
+      <hr>
+    </div>
+	{% include comments.html %}
+  </div>
+  <div id="content" class="col-sm-3">
+    <!-- <div id="myAffix" class="shadow-bottom-center hidden-xs" data-spy="affix" data-offset-top="0" data-offset-bottom="-20"> -->
+    <div id="myAffix" class="shadow-bottom-center hidden-xs" >
+      <div class="categories-list-header">
+        Content
+      </div>
+      <div class="content-text"></div>
+    </div>
+  </div>
+</div>

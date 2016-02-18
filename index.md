@@ -1,40 +1,17 @@
 ---
-layout: page
-title: Orienting to Python at Cal
+layout: frontpage
 ---
-## For New Learners
 
-Definitely take a look at our [Learning Resources](learning_resources.html), and
-by our, I mean *our*! You can [submit your own changes via
-GitHub](https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/learning_resources.md)
-to keep our learning resources current.
+# Welcome
 
-If you have no idea where to go, drop us a line on the [py4science
-list](mailto:py4science@lists.berkeley.edu), or visit, call, or email us at the
-[D-Lab](http://dlab.berkeley.edu)!
+Here is a collection of resources about the [Python programming language](https://python.org/) and its use on the UC Berkeley campus. Please check out the [Community](/learnpython/community) and [Learning Resources](/learnpython/resources) pages, and do contribute if you can.
 
-Also check us out on Twitter:
-[@PyWorkParty](http://www.twitter.com/PyWorkParty)!
+## Want to Learn Python?
 
-## Join The Community!
+Learn Python is a working group on the UC Berkeley campus, sponsored by the D-Lab. We hold informal weekly meetings teaching and learning about different topics in the Python programming language, especially for social science, data science, and visualization. 
 
-**Social Computing** is a bi-weekly meeting in the
-[D-Lab](http://dlab.berkeley.edu/location) providing a social setting focused on
-social science and computing. You are also welcome if you aren't quite a social
-scientist. All events are announced via the mailing list, and [the mailing list
-archive *is* the website for the
-group](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu/).
+This is ideal for learners who are new to Python --- you&#39;ll have a group of peers instead of being by yourself. If you&#39;re a little more advanced, you can try to teach something. You are welcome to attend any or all meetings throughout the semester.
 
-**The Hacker Within** supports the development of your inner hacker, in a weekly
-meeting in [BIDS](http://bids.berkeley.edu/about/directions-and-travel) for
-sharing skills and best practices for scientific computation. You can find out
-more on [their website](http://thehackerwithin.github.io/berkeley/).
+On this website, you can check out or improve our [beginner resources](/learnpython/learn). We also have a list of topics from [past meetings](/learnpython/past). Please [send an email](mailto:marwahaha@berkeley.edu) or join us on **Mondays from 5-6:30pm** at D-Lab (**356 Barrows Hall, UC Berkeley**). The [D-Lab](http://dlab.berkeley.edu) also offers many other free computing resources for academics, including workshops and 1-on-1 consulting.
 
-The Python Work(ers) Party is now relegated to [the
-archives](/events/archives.html)!
-
-The py4science mailing list is still functional, but please subscribe to the
-Social Computing or The Hacker Within mailing lists for the events in those
-groups.  While there are often better resources (like [Stack
-Overflow](http://stackoverflow.com), or even just Google), the Berkeley Python
-community is always happy to get you moving in the right direction.
+We have a mailing list! You can [subscribe here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu).

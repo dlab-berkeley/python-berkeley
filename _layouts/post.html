@@ -1,75 +1,30 @@
 ---
 layout: default
 ---
-<article class="unit-article layout-post">
-  <div class="unit-inner unit-article-inner">
-    <div class="content">
+<div class="row">
+  <div id="myArticle" class="col-sm-9">
+    <div class="post-area post">
       <header>
-        <div class="unit-head">
-          <div class="unit-inner unit-head-inner">
-            <h1 class="h2 entry-title">{{ page.title }}</h1>
-          </div><!-- unit-inner -->
-        </div><!-- unit-head -->
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
       </header>
-
-      <div class="bd">
-        <div class="entry-content">
-          {{ content }}
-          <div class="meta">
-            <p class="date-publish">
-              Published:
-              <date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
-              <span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
-              <span class="day">{{ page.date | date: '%d' }}</span>
-              <span class="year">{{ page.date | date: '%Y' }}</span>
-              </date>
-            </p>
-            <!-- <ul class="list&#45;category list&#45;linear"> -->
-            <!--   <li class="list&#45;head">category: </li> -->
-            <!--   {% assign categories_list = page.categories %} -->
-            <!--   {% include JB/categories_list %} -->
-            <!-- </ul> -->
-            <!--             <br/> -->
-            <!-- <ul class="list&#45;tag list&#45;linear"> -->
-            <!--   <li class="list&#45;head">tags: </li> -->
-            <!--   {% assign tags_list = page.tags %} -->
-            <!--   {% include JB/tags_list %} -->
-            <!-- </ul> -->
-          </div><!-- meta -->
-        </div><!-- entry-content -->
-        <div class="misc-content">
-          <!-- <div class="social">
-            <ul class="list-linear">
-              <li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="en">Tweet</a></div></li>
-              <li><div class="twitter-follow"><a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
-            </ul>
-          </div> -->
-          <div class="comment">
-          {% include JB/comments %}
-          </div>
-        </div><!-- misc-content -->
-      </div><!-- bd -->
-      <footer class="unit-foot">
-        <div class="unit-inner unit-foot-inner">
-          <nav class="pagination">
-            <ul>
-              {% if page.previous %}
-              <li class="prev"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">&laquo; {{ page.previous.title }}</a></li>
-              {% endif %}
-              {% if page.previous and page.next %}
-              <li class="pipe"> | </li>
-              {% endif %}
-              {% if page.next %}
-              <li class="next"><a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">{{ page.next.title }} &raquo;</a></li>
-              {% endif %}
-            </ul>
-          </nav>
-          <p class="gotop">
-            <a href="#page">Back to Top</a>
-          </p>
-        </div>
-      </footer>
-
-    </div><!-- content -->
-  </div><!-- unit-inner -->
-</article>
+      <hr>
+      <article>
+        {{content}}
+      </article>
+      <hr>
+    </div>
+	{% include comments.html %}
+  </div>
+  
+  <div id="content" class="col-sm-3">
+    <!-- <div id="myAffix" class="shadow-bottom-center hidden-xs" data-spy="affix" data-offset-top="0" data-offset-bottom="-20"> -->
+    <div id="myAffix" class="shadow-bottom-center hidden-xs" >
+      <div class="categories-list-header">
+        Content
+      </div>
+      <div class="content-text"></div>
+    </div>
+  </div>
+  
+</div>
