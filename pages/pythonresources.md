@@ -88,6 +88,8 @@ to Python](http://docs.python-guide.org/en/latest/). (Just like this site, you
 can [contribute to the Hitchhiker's Guide via
 GitHub](https://github.com/kennethreitz/python-guide).)
 
+Head over to [Full Stack Python](http://fullstackpython.com/) to learn how to write and deploy Python-based web applications using popular frameworks such as [Flask](http://flask.pocoo.org/) and [Django](https://www.djangoproject.com/).
+
 [Python for Data Analysis](http://proquest.safaribooksonline.com/book/programming/python/9781449323592) is a great place to get started.
 Or, you can learn about these tools from their websites:
 
