@@ -1,7 +1,7 @@
 # Site settings
 title: Learn Python!
 email: marwahaha@berkeley.edu
-description: New to programming? Check out Learn Python, a D-Lab Working Group.
+description: New to programming? Here is a collection of learning resources for the Python programming language and information about projects that use it on the UC Berkeley campus.
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
