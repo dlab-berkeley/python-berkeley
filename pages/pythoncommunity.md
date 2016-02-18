@@ -51,8 +51,8 @@ The Python Work(ers) Party is now relegated to the archives! [Twitter account he
 ### Events at D-Lab
 [http://dlab.berkeley.edu/calendar-node-field-date](http://dlab.berkeley.edu/calendar-node-field-date)
 
-### Old Python Workers' Party Events
-[link to old events](/events/archive)
+### Old Python Events
+[http://python.berkeley.edu/events/archive](http://python.berkeley.edu/events/archive)
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.
