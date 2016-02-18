@@ -4,8 +4,6 @@ permalink: /resources/
 title: Learning Resources
 redirect_from: learning_resources.html
 ---
-<!-- 
- -->
 
  
 ## Asking questions
