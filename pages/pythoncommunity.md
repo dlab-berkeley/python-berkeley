@@ -33,15 +33,13 @@ The py4science mailing list is still functional. This is a general campus discus
 ### Data Science Resource List
 [This is a listing of data science groups](http://marwahaha.github.io/datamap/support) at UC Berkeley, where you can get help.
 
-### Old 
-Other groups have been active in the past. 
+### Prior groups
 
-#### Social Computing
-Look at Social Computing uses its mailing list archive as its website. You can also subscribe to said mailing list.
-Social Computing is a [bi-weekly meeting in the D-Lab](http://dlab.berkeley.edu/contact-and-address) providing a social setting focused on social science and computing. You are also welcome if you aren’t quite a social scientist. All events are announced via the mailing list, and [the mailing list archive is the website for the group](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu/).
-
-#### Python Work Party
-The Python Work(ers) Party is now relegated to the archives! [Twitter account here](https://twitter.com/PyWorkParty).
+Social Computing and the Python Work Party were groups that were active in the
+past in D-Lab.  **Social Computing** [used its mailing list archive as its
+website](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu/).
+The Python Work(ers) Party is elso rlegated to the archives! [Twitter account
+here](https://twitter.com/PyWorkParty).
 
 ## Events
 
