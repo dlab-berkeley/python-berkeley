@@ -14,9 +14,9 @@ gems:
 future: true
 
 
-
+# You never need this, even when the site is live on GitHub -DJC
 # README README comment the below line out for local stuff!
-baseurl: "http://python.berkeley.edu" # the subpath of your site, e.g. /blog/
+# baseurl: "http://python.berkeley.edu" # the subpath of your site, e.g. /blog/
 
 
 
@@ -25,6 +25,7 @@ baseurl: "http://python.berkeley.edu" # the subpath of your site, e.g. /blog/
 # twitter_username: jekyllrb
 github_username: marwahaha
 permalink: /:year-:month-:day-:title/
+
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
 # this is the url root of the create page link on the footer page.
@@ -41,6 +42,7 @@ newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
 # Build settings
 markdown: kramdown
 
+# XXX - This is clearly in need of attention...
 kramdown:
     smartquotes: ["apos", "apos", "quot", "quot"]
     smart_quotes: ["apos", "apos", "quot", "quot"]
