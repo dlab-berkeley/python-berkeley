@@ -23,7 +23,8 @@ future: true
 
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: marwahaha
+#github_username controls the github link at the bottom of the page.
+github_username: dlab-berkeley/python-berkeley
 permalink: /:year-:month-:day-:title/
 
 # this is the url root of the view source link on the footer page.
