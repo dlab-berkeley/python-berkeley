@@ -45,7 +45,6 @@ markdown: kramdown
 
 # XXX - This is clearly in need of attention...
 kramdown:
-    smartquotes: ["apos", "apos", "quot", "quot"]
     smart_quotes: ["apos", "apos", "quot", "quot"]
 
 
