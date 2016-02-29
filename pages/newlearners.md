@@ -48,7 +48,7 @@ There are a couple key differences for novice programmers:
 
 ## More Practice
 
-[Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
+[Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry). Click here for the [Jupyter notebook version](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.ipynb).
 
 #### Longer Reads and Lessons
 
