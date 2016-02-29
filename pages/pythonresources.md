@@ -121,9 +121,10 @@ much more.  Below are some things worth checking out:
 - [CS9H](http://www-inst.eecs.berkeley.edu/~selfpace/class/cs9h/index.shtml) - Self-paced Python course. Requires some programming background. Good for people that know another language and want to pick up Python.
 - [AY250](http://profjsb.github.io/python-seminar/) - "Python computing for science." More advanced python course for scientists.
 - [AY98](http://ugastro.berkeley.edu/pydecal/)- "Python Programming for Astronomers". Introductory python course with an emphasis on applications to astronomy.
+- [PS239T](https://github.com/rochelleterman/PS239T) - "Introduction to Computational Tools and Techniques for Social Research" is Rochelle Terman's course for technical training in computational social science and digital humanities. Of special note is her [tutorial on APIs](https://github.com/rochelleterman/PS239T/tree/master/09_APIs) and her [webscraping tutorial](https://github.com/rochelleterman/PS239T).
 
 ## Intensives
 
-Software carpentry offers a variety of trainings around the world, check their
+Software Carpentry offers a variety of trainings around the world, check their
 [main site](http://software-carpentry.org/bootcamps/index.html) for bootcamp
 dates.
