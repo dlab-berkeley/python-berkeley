@@ -5,7 +5,7 @@ title: Learning Resources
 redirect_from: learning_resources.html
 ---
 
- 
+
 ## Asking questions
 
 The best place to ask questions is probably [Stack
@@ -126,6 +126,8 @@ much more.  Below are some things worth checking out:
 - [PS239T](https://github.com/rochelleterman/PS239T) - "Introduction to Computational Tools and Techniques for Social Research" is Rochelle Terman's course for technical training in computational social science and digital humanities. Of special note is her [tutorial on APIs](https://github.com/rochelleterman/PS239T/tree/master/09_APIs) and her [webscraping tutorial](https://github.com/rochelleterman/PS239T).
 
 ## Intensives
+
+D-Lab hosts week-long Python intensives at the beginning and end of every semester, and workshops throughout the academic year. [Click here to see upcoming workshops](http://dlab.berkeley.edu/training?field_training_type_tid=All&body_value=python)
 
 Software Carpentry offers a variety of trainings around the world, check their
 [main site](http://software-carpentry.org/bootcamps/index.html) for bootcamp
