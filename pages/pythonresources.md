@@ -5,7 +5,7 @@ title: Learning Resources
 redirect_from: learning_resources.html
 ---
 
- 
+
 ## Asking questions
 
 The best place to ask questions is probably [Stack
@@ -32,7 +32,7 @@ section).
 
 ## Intro materials on GitHub
 
- - [Dav's D-Lab materials](https://github.com/dlab-berkeley/python-fundamentals)
+ - [D-Lab's intro materials](https://github.com/dlab-berkeley/python-for-everything)
  - [Omoju's Hip Hop / Turtle curriculum](https://github.com/davclark/ultra_scrapr)
 
 ## Getting Python
