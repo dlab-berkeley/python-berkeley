@@ -54,6 +54,7 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
 
 ## Other online tutorials
 
+ - [Tutorial from Data Carpentry](http://www.datacarpentry.org/python-ecology)
  - [Tutorial from the official Python website](http://docs.python.org/2/tutorial/)
  - [Other resources are available on the Python wiki](http://wiki.python.org/moin/BeginnersGuide)
  - [A useful collection of python tutorials](http://pythontips.com/2013/09/01/best-python-resources/)
