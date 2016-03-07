@@ -128,6 +128,8 @@ much more.  Below are some things worth checking out:
 
 ## Intensives
 
+D-Lab hosts week-long Python intensives at the beginning and end of every semester, and workshops throughout the academic year. [Click here to see upcoming workshops](http://dlab.berkeley.edu/training?field_training_type_tid=All&body_value=python)
+
 Software Carpentry offers a variety of trainings around the world, check their
 [main site](http://software-carpentry.org/bootcamps/index.html) for bootcamp
 dates.
