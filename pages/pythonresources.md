@@ -29,6 +29,7 @@ section).
  - [Codecademy Python Track](http://www.codecademy.com/tracks/python)
  - [learnpython.org](http://www.learnpython.org/)
  - [Code Wars](http://www.codewars.com)
+ - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## Intro materials on GitHub
 
@@ -63,6 +64,7 @@ the IPython page](http://ipython.org/install.html). (IPython is an enhanced shel
 ## Video tutorials
  - [Coursera](https://www.coursera.org/course/interactivepython)
  - [Khan Academy](https://www.khanacademy.org/science/computer-science)
+ - [DataCamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 
 ## Cheat Sheets
 
