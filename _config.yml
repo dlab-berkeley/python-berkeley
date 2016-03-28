@@ -1,11 +1,10 @@
 # Site settings
 title: Learn Python!
 email: marwahaha@berkeley.edu
-description: New to programming? Here is a collection of learning resources for the Python programming language and information about projects that use it on the UC Berkeley campus.
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+description: >
+    New to programming? Here is a collection of learning resources for the
+    Python programming language and information about projects that use it on
+    the UC Berkeley campus.
 
 gems:
   - jekyll-redirect-from
@@ -13,16 +12,9 @@ gems:
 #Show future posts!
 future: true
 
-
-# You never need this, even when the site is live on GitHub -DJC
-# README README comment the below line out for local stuff!
-# baseurl: "http://python.berkeley.edu" # the subpath of your site, e.g. /blog/
-
-
-
-
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
+
 #github_username controls the github link at the bottom of the page.
 github_username: dlab-berkeley/python-berkeley
 permalink: /:year-:month-:day-:title/
@@ -43,14 +35,14 @@ newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
 #########################################
 
 # Build settings
-markdown: kramdown
 
-# XXX - This is clearly in need of attention...
-kramdown:
-    smart_quotes: ["apos", "apos", "quot", "quot"]
+# This is default
+# markdown: kramdown
+
+# This was how it was set, disabling reverts to real smart quotes
+# kramdown:
+#      smart_quotes: ["apos", "apos", "quot", "quot"]
 
 
-# highlight
-# highlighter: pygments
+# The default highlighter for Jekyll, and the ONLY one on GitHub
 # highlighter: rouge
-# highlighter: false
