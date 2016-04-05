@@ -20,5 +20,5 @@ Please do, at minimum, run through the [beginner tutorial](http://try-python.app
 
 ## Notes
 
-This is the [Jupyter notebook](../03_lecture_code_kunal_040416.ipynb) that I used (kunal). It has the solutions to the challenges, plus a bit more. Check it out! Here's a [PDF version](03_lecture_code_kunal_040416.pdf), and here's the [output csv file](test.csv).
+This is the [Jupyter notebook](../03_lecture_code_kunal_040416.ipynb) that I used (kunal). It has the solutions to the challenges, plus a bit more. Check it out! Here's a [PDF version](../03_lecture_code_kunal_040416.pdf), and here's the [output csv file](../test.csv).
 
