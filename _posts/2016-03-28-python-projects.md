@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Web
+categories: Collaborating
 ---
 
 Come on **Monday, March 28 from 5-6:30pm** in the D-Lab (**356 Barrows**).
@@ -16,9 +16,11 @@ Please do, at minimum, run through the [beginner tutorial](http://try-python.app
 We tried exploring this project today, but I think it was a little out-of-reach: http://pfch.nyc/quipu/
 
 Next week, we will focus on APIs (via another tutorial from Rochelle Terman's PS239T). The notes for next week are right here:
-https://github.com/rochelleterman/PS239T/blob/master/09_APIs/01_lecture-slides.md
-https://github.com/rochelleterman/PS239T/blob/master/09_APIs/02_full-notes.Rmd
-https://github.com/rochelleterman/PS239T/blob/master/09_APIs/03_lecture_code.ipynb
+
+
+[https://github.com/rochelleterman/PS239T/blob/master/09_APIs/01_lecture-slides.md](https://github.com/rochelleterman/PS239T/blob/master/09_APIs/01_lecture-slides.md)
+
+[https://github.com/rochelleterman/PS239T/blob/master/09_APIs/03_lecture_code.ipynb](https://github.com/rochelleterman/PS239T/blob/master/09_APIs/03_lecture_code.ipynb)
 
 
 Going forward, we can split into a few groups who want to explore projects that we can write from scratch. (That way, we have a good handle on what's going on). Using an API may help. (Maybe, we can query the NYTimes API for something, as in the tutorial...)
