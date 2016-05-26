@@ -22,32 +22,41 @@ def hi():
     print("hello world")
 ```
 
-
 ## Set up your computer
 
 This is our recommended way to install Python on your system.
 
-#### Install Jupyter
+#### Install Anaconda
 
-With Jupyter, you intersperse code and text in one big file called a
-"notebook." It is very convenient to write code, test, and visualize results.
-Highly recommended for research use.
+* Please [download the Anaconda installer](http://continuum.io/downloads). We recommend Python 3.
+* Choose `Install for me only`
+* By default, Anaconda will prepend itself to your PATH -- leave this as is
+* When Anaconda has finished installing, open a terminal (Linux, OSX), or the Anaconda Prompt (Windows)
+* Type `conda update conda`, hit enter, and then say "y"
+* Type `conda update anaconda`, hit enter, and then say "y"
 
-* Please [install Anaconda](http://continuum.io/downloads). If your lab does
-  not have a preference, I use Python 3.
-* Open the Terminal (Mac) or Command Prompt (Windows), and type ```conda
-  install jupyter```. Follow the installation procedures.
-* To run, open the Terminal (Mac) or Command Prompt (Windows) and type `jupyter
-  notebook`. When it's loaded, click on "New" (at the top right) to create a
-  new notebook.
+#### Run Jupyter
 
-Please [email](mailto:marwahaha@berkeley.edu) if you have any installation
-issues.
+With Jupyter, you intersperse code, output, explanatory text, and figures in one big file called a "notebook." Notebooks are a convenient format to explore a language and to share examples of code, but should not be used to write programs.
 
-#### Plaintext editor
+* To run a notebook, open the Terminal (Linux, OSX) or Anaconda Prompt (Windows) and type `jupyter notebook`. 
+* The notebook will open a new tab in your default browser. **Do not close the terminal**, as this will also shutdown the notebook. 
+* When it has loaded, click on "New" (at the top right) and then "Python3" to create a new notebook.
 
-Sublime Text is recommended, which you can [download
-here](http://sublimetext.com/).
+#### Text editors
+
+For writing code in Python, we recommend the use of a text editor in combination with IPython and a testing suite. Popular choices include:
+
+* [Sublime Text](http://sublimetext.com/)
+* [Atom](https://atom.io/)
+* [Light Table](http://lighttable.com/)
+
+#### IDEs
+
+For more complicated projects, a well-engineered IDE may be better than a text editor. Typically, IDEs include support for visual debugging and code refactoring. Popular choices include:
+
+* [Spyder](https://pythonhosted.org/spyder/installation.html)
+* [PyCharm](https://www.jetbrains.com/pycharm-edu/)
 
 #### Python 2 vs Python 3
 
