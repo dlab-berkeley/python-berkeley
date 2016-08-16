@@ -33,9 +33,8 @@ newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
 #########################################
 # Build settings
 # This is default
-# markdown: kramdown
-# This was how it was set, disabling reverts to real smart quotes
-# kramdown:
-#      smart_quotes: ["apos", "apos", "quot", "quot"]
+markdown: kramdown
+kramdown:
+     smart_quotes: ["apos", "apos", "quot", "quot"] #smart quotes do stupid things with this theme, so turns them off
 # The default highlighter for Jekyll, and the ONLY one on GitHub
 # highlighter: rouge

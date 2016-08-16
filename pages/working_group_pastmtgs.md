@@ -5,9 +5,6 @@ comments: true
 permalink: /past/
 ---
 
-* content
-{:toc}
-
 ## Past Meetings
 Here is a list of topics from our previous meetings and associated learning resources.
 

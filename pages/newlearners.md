@@ -92,7 +92,7 @@ version](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.ipynb
 
 #### Beyond
 
-* See the Learn Python Working Group&#39;s past topics [here](/past).
+* See the Learn Python Working Group's past topics [here](/past).
 * Others in the [community](/community) may have relevant materials.
 * Also, see the [learning resources](/resources) page.
 

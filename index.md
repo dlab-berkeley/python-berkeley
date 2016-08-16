@@ -2,16 +2,17 @@
 layout: frontpage
 ---
 
-# Welcome
-
-Here is a collection of resources about the [Python programming language](https://python.org/) and its use on the UC Berkeley campus. Please check out the [Community](/community) and [Learning Resources](/resources) pages, and do contribute if you can.
-
 ## Want to Learn Python?
 
-Learn Python is a working group on the UC Berkeley campus, sponsored by the D-Lab. We hold informal weekly meetings teaching and learning about different topics in the Python programming language, especially for social science, data science, and visualization. 
+Learn Python is a meeting group at UC Berkeley, sponsored by the D-Lab (356 Barrows Hall). We hold informal weekly meetings about fundamentals & special topics of the [Python programming language](https://python.org/). We focus especially in social science, data science, and visualization. 
 
-This is ideal for learners who are new to Python --- you&#39;ll have a group of peers instead of being by yourself. If you&#39;re a little more advanced, you can try to teach something. You are welcome to attend any or all meetings throughout the semester.
+This group is perfect for learners who are new to Python. You'll have a group of peers instead of being by yourself. Everyone is welcome to attend any or all meetings throughout the semester.
 
-On this website, you can check out or improve our [beginner resources](/learn). We also have a list of topics from [past meetings](/past). Please [send an email](mailto:marwahaha@berkeley.edu) or join us on **Mondays from 5-6:30pm** at D-Lab (**356 Barrows Hall, UC Berkeley**). The [D-Lab](http://dlab.berkeley.edu) also offers many other free computing resources for academics, including workshops and 1-on-1 consulting.
+**Weekly meeting time and date is TBD.** Please email facilitator [Megan Carey](mailto:mcarey@berkeley.edu) for more information. You can also [subscribe here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu) to our mailing list!
 
-We have a mailing list! You can [subscribe here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu).
+* Here are [beginner resources](/learn) for new learners!
+* Here are the links to our [past meetings](/past).
+* Here are other resources for [furthering your Python skills](/resources). If another resource was useful, [let us know!](mailto:mcarey@berkeley.edu).
+* Here are other [UC Berkeley groups & events](/community) that focus on Python.
+
+The [D-Lab](http://dlab.berkeley.edu) also offers many other free computing resources for academics, including workshops and 1-on-1 consulting.

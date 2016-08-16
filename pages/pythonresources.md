@@ -5,6 +5,9 @@ title: Learning Resources
 redirect_from: learning_resources.html
 ---
 
+* content
+{:toc}
+
 
 ## Asking questions
 
