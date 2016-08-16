@@ -1,31 +1,29 @@
 # Site settings
 title: Learn Python!
-email: marwahaha@berkeley.edu
+email: mcarey@berkeley.edu
 description: >
     New to programming? Here is a collection of learning resources for the
     Python programming language and information about projects that use it on
     the UC Berkeley campus.
-
 gems:
   - jekyll-redirect-from
+future: true #so you see future posts!
+github_username: dlab-berkeley/python-berkeley #for github link in footer
+permalink: /:year-:month-:day-:title/
+viewsourceroot: https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/ #link in footer to edit this page
 
-#Show future posts!
-future: true
 
+
+
+############################################
+##      NOT SURE ABOUT THESE SETTINGS     ##
+
+############################################
+newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
+############################################
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-
-#github_username controls the github link at the bottom of the page.
-github_username: dlab-berkeley/python-berkeley
-permalink: /:year-:month-:day-:title/
-
-# this is the url root of the view source link on the footer page.
-# UPDATE: now it's an edit link
-viewsourceroot: https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/
-# this is the url root of the create page link on the footer page.
-# UPDATE: this is now unused
-newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
-#########################################
+############################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
@@ -33,16 +31,11 @@ newsourceroot: https://github.com/dlab-berkeley/python-berkeley/blob/gh-pages/
 #disqus_shortname: lixizhi
 #disqus_url: "http://lixizhi.github.io"
 #########################################
-
 # Build settings
-
 # This is default
 # markdown: kramdown
-
 # This was how it was set, disabling reverts to real smart quotes
 # kramdown:
 #      smart_quotes: ["apos", "apos", "quot", "quot"]
-
-
 # The default highlighter for Jekyll, and the ONLY one on GitHub
 # highlighter: rouge
