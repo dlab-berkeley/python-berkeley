@@ -5,7 +5,7 @@ layout: page
  -->
 {% for post in site.categories.events %}
   {{ DIVIDER }}
-  *{{ post.date | date_to_long_string}}*
+  *{{ post.date | date_to_long_string}}* First Learn Python meeting: 9/12
 
 ## [{{ post.title }}]({{ site.url }}/learnpython{{ post.url }})
 
