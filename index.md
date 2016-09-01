@@ -10,7 +10,6 @@ This group is perfect for those who are new to Python. Much of the learning will
 
 **When:** Mondays from 4-5:30, **staring 9/12**.
 
-
 **Where:** [D-Lab Collaboratory](http://dlab.berkeley.edu/space), 356 Barrows Hall.
 
 Please email facilitator [Megan Carey](mailto:mcarey@berkeley.edu) for more information. You can also [subscribe here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu) to our mailing list!
