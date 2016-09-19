@@ -19,7 +19,7 @@ layout: default
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
-          {% assign curDate = site.time | date: '%s' | minus: 120000 | date: '%s' %}
+          {% assign curDate = site.time | date: '%s' | minus: 0 | date: '%s' %}
           {% for post in site.posts reversed %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate >= curDate %}
