@@ -19,7 +19,7 @@ layout: default
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
-          {% assign curDate = site.time | date: '%s' | minus: 0 | date: '%s' %}
+          {% assign curDate = site.time | date: '%s' | minus: 12000 | date: '%s' %}
           {% for post in site.posts reversed %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate >= curDate %}
@@ -32,7 +32,6 @@ layout: default
               {% endif %}
           {% endfor %}
         </div>
-        <!-- <div class="posts-in-categories"> -->
         {% for category in site.categories %}
           {% if category contains 'events' %}
           {% else %}
@@ -52,7 +51,6 @@ layout: default
           </div>
           {% endif %}
         {% endfor %}
-        <!-- </div> -->
       </div>
     </div>
   </div>
@@ -62,11 +60,11 @@ layout: default
         Categories
       </div>
       <a href="javascript:;" class="categories-list-item" cate="All">
-        Upcoming Events<span class="my-badge">:)</span>
+        Upcoming Events<span class="my-badge"></span>
       </a>
       {% for category in site.categories %}
-          {% if category contains 'events' %}
-          {% else %}
+          <!--{% if category contains 'events' %}-->
+          <!--{% else %}-->
         <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
           {{ category | first }} <span class="my-badge">{{ category | last | size }}</span>
         </a>
