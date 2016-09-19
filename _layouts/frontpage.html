@@ -19,7 +19,7 @@ layout: default
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
-          {% assign curDate = site.time | date: '%s' | minus: 12000 | date: '%s' %}
+          {% assign curDate = site.time | date: '%s' | minus: 120000 | date: '%s' %}
           {% for post in site.posts reversed %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate >= curDate %}
@@ -60,7 +60,7 @@ layout: default
         Categories
       </div>
       <a href="javascript:;" class="categories-list-item" cate="All">
-        Upcoming Events<span class="my-badge"></span>
+        Upcoming Events<span class="my-badge">:)</span>
       </a>
       {% for category in site.categories %}
           {% if category contains 'events' %}
