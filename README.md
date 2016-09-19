@@ -1,5 +1,5 @@
 # Python at Berkeley
-python resources of berkeley curated in one place
+Python resources of berkeley curated in one place
 
 ## Using the site
 Visit [http://python.berkeley.edu](http://python.berkeley.edu). In particular, please visit:
