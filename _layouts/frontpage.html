@@ -63,8 +63,8 @@ layout: default
         Upcoming Events<span class="my-badge"></span>
       </a>
       {% for category in site.categories %}
-          <!--{% if category contains 'events' %}-->
-          <!--{% else %}-->
+          {% if category contains 'events' %}
+          {% else %}
         <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
           {{ category | first }} <span class="my-badge">{{ category | last | size }}</span>
         </a>
