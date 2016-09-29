@@ -9,9 +9,9 @@ redirect_from: learning_resources.html
 {:toc}
 
 ## Python Resources
-If you're new to Python, we recommend that you [start here!](/learn)
+If you're new to Python, we recommend that you [start here!](/learn) Also please check out our Learn Python [past meetings](/past) posts for more guided resources.
 
-## Where to ask questions
+### Where to ask questions
 
 The best place online is probably [Stack
 Overflow](http://stackoverflow.com). If you do a Google search, you might find a similar question already asked (and answered!) on Stack Overflow. The site is picky about new questions; please read [Stack Overflow's tour](http://stackoverflow.com/tour) or this in-depth [essay on
@@ -19,7 +19,7 @@ asking good questions by Eric Raymond](http://catb.org/~esr/faqs/smart-questions
 
 Of course, you're always welcome to ask in person or on the mailing list; [subscribe here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu).
 
-## Python Fundamentals
+### Python Fundamentals
 Some resources require installing Python on your computer.
 
 #### No-installation intros
@@ -66,7 +66,7 @@ works through your web browser, so things will work right away!
     - [O'Reilly Safari Bookshelf](http://proquest.safaribooksonline.com/)
     - [Springer Link](http://link.springer.com/search?facet-content-type=%22Book%22)
 
-## Downloading & Using Python
+### Downloading & Using Python
 We have a recommended installation process [linked here](/learn).
 
 #### Online Python interpreters
@@ -82,7 +82,7 @@ If you don't know how to run things from the command line, it's probably easiest
 
 If you install Python, you can follow [the instructions on the Jupyter page](http://jupyter.readthedocs.io/en/latest/install.html). (Jupyter includes an enhanced shell for Python.)
 
-## Python Special Topics
+### Python Special Topics
 
 A general resource when you're exploring new topics is the [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/). (Just like this site, you can [contribute to the Hitchhiker's Guide via GitHub](https://github.com/kennethreitz/python-guide).)
 
@@ -104,7 +104,7 @@ And then look here for inspiration:
  - [A list of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
  - [Working with Matplotlib](https://preinventedwheel.com/easy-python-time-series-plots-with-matplotlib/Working with Matplotlib). This site has a couple other cool references on [data journalism](https://preinventedwheel.com/mobile-innovation-is-saving-lives/) and [SQL](https://preinventedwheel.com/3-basic-sql-queries-everyone-needs-to-know/).
 
-## At UC Berkeley
+### At UC Berkeley
 UC Berkeley has a lot of great resources for learning scientific computing and
 data science. There are classes, tutorials, reading groups, institutes, and
 much more.
