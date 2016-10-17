@@ -2,3 +2,5 @@ _site
 .sass-cache
 roster.*
 .ipynb_checkpoints
+.DS_store
+notebooks/.DS_Store
