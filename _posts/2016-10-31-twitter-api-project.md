@@ -11,8 +11,8 @@ You can find the slides [here](https://docs.google.com/presentation/d/1Dv7La-7HM
 
 # Resources from class
 
-* Twitter advanced search engine: https://twitter.com/search-advanced?lang=en
-* Tweepy documentation: http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html#api
-* Twitter API documentation:https://dev.twitter.com/rest/reference
+* [Twitter advanced search engine](https://twitter.com/search-advanced?lang=en)
+* [Tweepy documentation](http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html#api)
+* [Twitter API documentation](https://dev.twitter.com/rest/reference)
 
 Will this be your first week in the working group? Be sure to check the [setup instructions](http://python.berkeley.edu/learn/#set-up-your-computer) to get started. If you get stuck, we can help!
