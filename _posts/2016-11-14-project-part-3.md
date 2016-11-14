@@ -7,7 +7,7 @@ categories: Web
 ## Overview
 We will continue our semester project gathering data about this year's election via the Twitter API.
 
-You can find the slides [here](https://docs.google.com/presentation/d/1lUvP5eNw_muDYc8CKZWh0K8CCQCKAXpQdd7yC_tFIPw/edit?usp=sharing), and the Jupyter Notebook download [here](https://drive.google.com/open?id=0B3D_PdrFcBfRdXU4QUJWUWJKS0U).
+You can find the slides [here](https://docs.google.com/presentation/d/1IybgN-K4aevsvtbD7ahT4NIUn4q1PcYGIwK_8RBsbO0/edit?usp=sharing), and the Jupyter Notebook download [here](https://drive.google.com/open?id=0B3D_PdrFcBfRdXU4QUJWUWJKS0U).
 
 ### Resources from class
 
