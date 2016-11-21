@@ -7,7 +7,7 @@ categories: Web
 ## Overview
 Today we will gather data and practice writing it to a file.
 
-You can find the slides [here](https://docs.google.com/presentation/d/1Wca2dMg4ClVtV_hg8z6nOMxmewIoFL_COi8DcY56Xn0/edit?usp=sharing), and the Jupyter Notebook download [here](https://drive.google.com/file/d/0B3D_PdrFcBfReEJZSjFPMEpycUk/view?usp=sharing).
+You can find the slides [here](https://docs.google.com/presentation/d/1Wca2dMg4ClVtV_hg8z6nOMxmewIoFL_COi8DcY56Xn0/edit?usp=sharing), and the materials download [here](https://drive.google.com/drive/folders/0B3D_PdrFcBfRNHF4THpId29EbTQ?usp=sharing).
 
 ### Resources from class
 
