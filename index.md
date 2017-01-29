@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Want to Practice Python?
+## Home
 
 Python Practice is a working group at UC Berkeley, sponsored by the D-Lab. We hold informal biweekly meetings about special topics of the [Python programming language](https://python.org/). We focus especially in social science applications, data science, and visualization. 
 
