@@ -16,8 +16,8 @@ The Python community is quite welcoming! There are a variety of places on campus
 THW is a weekly meeting about scientific computing.
 The Hacker Within supports the development of your inner hacker, in a [weekly meeting in BIDS](http://bids.berkeley.edu/about/directions-and-travel) for sharing skills and best practices for scientific computation. You can find out more on their website: [http://thehackerwithin.github.io/berkeley/](http://thehackerwithin.github.io/berkeley/)
 
-#### Learn Python Working Group
-You are on our page! We meet weekly at the D-Lab. We hold informal weekly meetings teaching and learning about different topics in the Python programming language, especially for social science, data science, and visualization. You can [subscribe to our mailing list here](https://calmail.berkeley.edu/manage/list/listinfo/learnpython@lists.berkeley.edu). 
+#### Python Practice Working Group
+You are on our page! We meet weekly at the D-Lab. We hold informal weekly meetings teaching and learning about different topics in the Python programming language, especially for social science, data science, and visualization. You can [subscribe to our mailing list here](https://groups.google.com/a/lists.berkeley.edu/d/forum/pythonpractice). 
 
 #### py4science
 The py4science mailing list is still functional. This is a general campus discussion and announcement list for Python. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu)
