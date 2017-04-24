@@ -4,7 +4,7 @@ comments: true
 categories: Beginner
 ---
 ### Info
-Today we will be learning how to make calls to the [Yelp API](https://www.yelp.com/developers/documentation/v2/overview).
+Today we will be learning about the Python library [matplotlib](https://matplotlib.org/).
 
 ### Materials
-The notebook can be downloaded [here](https://drive.google.com/drive/folders/0B3D_PdrFcBfRMGtNajV6eXN3TzA?usp=sharing), but be sure to download it right before class to ensure you have the most updated version! We are often working on these up until class begins.
+The notebook for this week can be found [here](https://drive.google.com/file/d/0B3D_PdrFcBfRdXU4QUJWUWJKS0U/view).
