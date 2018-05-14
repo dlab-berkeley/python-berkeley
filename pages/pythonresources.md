@@ -41,6 +41,7 @@ works through your web browser, so things will work right away!
  - [Tutorial from the official Python website](http://docs.python.org/2/tutorial/)
  - [The Beginners' Guide from the Python wiki](http://wiki.python.org/moin/BeginnersGuide)
  - [A useful collection of Python tutorials](http://pythontips.com/2013/09/01/best-python-resources/)
+ - [Javasprout Python tutorial](https://javasprout.com/python/)
  - [Introduction to Programming: mini-lectures](http://introtopython.org/) (all written in Jupyter notebooks - [project page here](https://github.com/ehmatthes/intro_programming))
  - [Another useful collection of Python tutorials](http://www.whoishostingthis.com/resources/python/)
  - Simplilearn has some trainings ([basics](http://www.simplilearn.com/mobile-app-development-and-programming/python-programming-for-beginners), [intermediate](http://www.simplilearn.com/mobile-app-development-and-programming/python-development-training), [advanced](http://www.simplilearn.com/mobile-app-development-and-programming/advanced-web-development-training)). They're not free!
