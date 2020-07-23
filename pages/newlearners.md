@@ -69,8 +69,7 @@ For even larger projects, a well-engineered IDE (Interactive Development Environ
 * [PyCharm](https://www.jetbrains.com/pycharm-edu/)
 
 ## Practice
-Past topics of the Python Working Group are [linked here](/past). Suggestions? Send us an
-  [email](mailto:mcarey@berkeley.edu).
+Past topics of the Python Working Group are [linked here](/past). Suggestions? Send us an email at [dlab-frontdesk@berkeley.edu](mailto:dlab-frontdesk@berkeley.edu).
 
 #### Software Carpentry
 

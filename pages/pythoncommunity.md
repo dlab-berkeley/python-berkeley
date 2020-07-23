@@ -32,7 +32,7 @@ website](https://www.mail-archive.com/socialcomputing@lists.berkeley.edu/). The 
 here](https://twitter.com/PyWorkParty), and its [archives are here](http://python.berkeley.edu/events/archive/).
 
 ## Events
-Have something you want to add? Send an [email](mailto:mcarey@berkeley.edu) to mcarey@berkeley.edu.
+Have something you want to add? Send an email to [dlab-frontdesk@berkeley.edu](mailto:dlab-frontdesk@berkeley.edu).
 
 #### Events at BIDS
 [http://bids.berkeley.edu/events](http://bids.berkeley.edu/events)

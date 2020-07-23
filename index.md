@@ -17,7 +17,7 @@ Please email the [D-Lab front desk](mailto:dlab-frontdesk@berkeley.edu) for more
 
 * Here are [beginner resources](/learn) for new learners!
 * Here are the links to our [past meetings](/past). These past meeting posts have our class resources for each week, in the form of Jupyter notebooks.
-* Here are other resources for [furthering your Python skills](/resources). If another resource was useful, [let us know!](mailto:mcarey@berkeley.edu).
+* Here are other resources for [furthering your Python skills](/resources). If another resource was useful, [let us know!](mailto:dlab-frontdesk@berkeley.edu).
 * Here are other [UC Berkeley groups & events](/community) that focus on Python.
 
 The [D-Lab](http://dlab.berkeley.edu) also offers many other free computing resources for academics, including workshops and 1-on-1 consulting.
