@@ -13,7 +13,7 @@ This group is perfect for those who have some experience with Python, as we do e
 
 **Where:** [D-Lab Collaboratory](http://dlab.berkeley.edu/space), 356 Barrows Hall.
 
-Please email facilitator [Megan Carey](mailto:mcarey@berkeley.edu) for more information. You can also [subscribe here](https://groups.google.com/a/lists.berkeley.edu/d/forum/pythonpractice) to our mailing list!
+Please email the [D-Lab front desk](mailto:dlab-frontdesk@berkeley.edu) for more information. You can also [subscribe here](https://groups.google.com/a/lists.berkeley.edu/d/forum/pythonpractice) to our mailing list!
 
 * Here are [beginner resources](/learn) for new learners!
 * Here are the links to our [past meetings](/past). These past meeting posts have our class resources for each week, in the form of Jupyter notebooks.
