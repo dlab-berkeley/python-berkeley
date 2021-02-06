@@ -31,6 +31,7 @@ works through your web browser, so things will work right away!
  - [learnpython.org](http://www.learnpython.org/)
  - [Code Wars](http://www.codewars.com)
  - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+ - Data Science Course for Beginners ([ Data Science Course Syllabus](360digitmg.com/data-science)).
 
 #### Intros from Berkeley
  - [D-Lab's intro materials](https://github.com/dlab-berkeley/python-for-everything)
